@@ -452,7 +452,7 @@
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.52.3 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
+| **frp** | 0.53.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
 | **frpc** | 0.51.3 | frp client | https://gofrp.org/doc |
 | **frps** | 0.51.3 | frp server | https://gofrp.org/doc |
 | **fselect** | 0.8.4 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
@@ -677,7 +677,7 @@
 | **ices** | 2.0.3 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
 | **iconv** | 1.17 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
 | **icoutils** | 0.32.3 | Extracts and converts images in MS Windows(R) icon and cursor files. | https://www.nongnu.org/icoutils/ |
-| **icu-devtools** | 74.2 | Development utilities for International Components for Unicode | http://site.icu-project.org/home |
+| **icu-devtools** | 74.2-1 | Development utilities for International Components for Unicode | http://site.icu-project.org/home |
 | **id3lib** | 3.8.3-3 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | http://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
@@ -1002,8 +1002,8 @@
 | **libice-static** | 1.1.1 | Static libraries for libice | https://xorg.freedesktop.org/ |
 | **libiconv** | 1.17 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
 | **libiconv-static** | 1.17 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
-| **libicu** | 74.2 | International Components for Unicode library | http://site.icu-project.org/home |
-| **libicu-static** | 74.2 | Static libraries for libicu | http://site.icu-project.org/home |
+| **libicu** | 74.2-1 | International Components for Unicode library | http://site.icu-project.org/home |
+| **libicu-static** | 74.2-1 | Static libraries for libicu | http://site.icu-project.org/home |
 | **libid3tag** | 0.16.3 | MAD ID3 tag manipulation library | http://www.underbit.com/products/mad/ |
 | **libidn** | 1.41 | GNU Libidn library, implementation of IETF IDN specifications | https://www.gnu.org/software/libidn/ |
 | **libidn-static** | 1.41 | Static libraries for libidn | https://www.gnu.org/software/libidn/ |
