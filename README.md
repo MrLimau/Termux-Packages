@@ -919,7 +919,7 @@
 | **libdvdread-static** | 6.1.3 | Static libraries for libdvdread | https://code.videolan.org/videolan/libdvdread |
 | **libdw** | 0.190 | Library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libdw-static** | 0.190 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
-| **libebml** | 1.4.4 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
+| **libebml** | 1.4.5 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20221030-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
 | **libedit-static** | 20221030-3.1-0 | Static libraries for libedit | https://thrysoee.dk/editline/ |
@@ -1732,7 +1732,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.95 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 2.1.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.87.1 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.88.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.34 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
