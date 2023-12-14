@@ -415,7 +415,7 @@
 | **fetchmail** | 6.4.37 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.4.37 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 6.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 6.1-2 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.10-3 | Static libraries for fftw | http://www.fftw.org/ |
@@ -699,7 +699,7 @@
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
 | **iperf3** | 3.15 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.15 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipfs** | 0.24.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
+| **ipfs** | 0.25.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
 | **iproute2** | 6.6.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.1.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
@@ -1253,7 +1253,7 @@
 | **libseccomp-static** | 2.5.5-3 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
 | **libsecp256k1** | 1:0.4.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecp256k1-static** | 1:0.4.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecret** | 0.21.1 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
+| **libsecret** | 0.21.2 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libshout** | 2.4.6 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6 | Static libraries for libshout | https://icecast.org/ |
 | **libsigc++-2.0** | 2.12.0 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
@@ -2408,7 +2408,7 @@
 | **vlc-static** | 3.0.20-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.31 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.33 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20230924 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.271 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
