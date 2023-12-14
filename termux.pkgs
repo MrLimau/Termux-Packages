@@ -372,10 +372,10 @@
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.19.2-2 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 3.1.50 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 3.1.50 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 3.1.50 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 3.1.50 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 3.1.51 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 3.1.51 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 3.1.51 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 3.1.51 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-2 | A tool for compositing images using a Burt&Adelson multiresolution spline | http://enblend.sourceforge.net/ |
 | **enchant** | 2.6.4 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.6.4 | Static libraries for enchant | https://abiword.github.io/enchant/ |
@@ -1600,9 +1600,9 @@
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
 | **minicom** | 2.9 | Friendly menu driven serial communication program | https://salsa.debian.org/minicom-team/minicom |
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
-| **miniflux** | 2.0.50 | A minimalist and opinionated feed reader | https://miniflux.app/ |
+| **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2023.12.09.18.17.51 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2023.12.13.23.28.55 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.24.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1667,7 +1667,7 @@
 | **natpmpc** | 20230423 | Portable and fully compliant implementation of NAT-PMP | http://miniupnp.free.fr/libnatpmp.html |
 | **natpmpc-static** | 20230423 | Static libraries for natpmpc | http://miniupnp.free.fr/libnatpmp.html |
 | **navi** | 2.23.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.50.1-1 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.50.2 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.23.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.19 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.3 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
