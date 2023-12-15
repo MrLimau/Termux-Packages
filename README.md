@@ -232,8 +232,8 @@
 | **cloudflared** | 2023.10.0 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20231212.174713 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.28.0 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.28.0 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.28.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.28.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.30.3 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.30.3 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -1606,7 +1606,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2023.12.13.23.28.55 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2023.12.14.18.51.57 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.24.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -1732,7 +1732,7 @@
 | **nsnake** | 3.0.1-6 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
 | **nss-utils** | 3.95 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 2.1.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
-| **nushell** | 0.88.0 | A new type of shell operating on structured data | https://www.nushell.sh |
+| **nushell** | 0.88.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nwipe** | 0.34 | A program that will securely erase the entire contents of disks | https://github.com/martijnvanbrummelen/nwipe |
 | **nyancat** | 1.5.2 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 21.1-6 | The most efficient usenet downloader | https://nzbget.net/ |
@@ -1759,7 +1759,7 @@
 | **openbabel** | 3.1.1-8 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.7 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2023.04.17 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
-| **opencl-headers** | 2023.04.17 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
+| **opencl-headers** | 2023.12.14 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.3.0 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
