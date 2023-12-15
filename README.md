@@ -1257,7 +1257,7 @@
 | **libseccomp-static** | 2.5.5-3 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
 | **libsecp256k1** | 1:0.4.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecp256k1-static** | 1:0.4.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecret** | 0.21.2 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
+| **libsecret** | 0.21.2-1 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libshout** | 2.4.6 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6 | Static libraries for libshout | https://icecast.org/ |
 | **libsigc++-2.0** | 2.12.0 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
@@ -1869,7 +1869,7 @@
 | **pingme** | 0.2.6-3 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
 | **pipes.sh** | 2018.04.22 | Animated pipes terminal screensaver | https://github.com/pipeseroni/pipes.sh |
-| **pipewire** | 1.0.0 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
+| **pipewire** | 1.0.0-1 | A server and user space API to deal with multimedia pipelines | https://pipewire.org/ |
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 21 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
