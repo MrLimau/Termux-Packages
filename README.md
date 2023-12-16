@@ -1471,7 +1471,7 @@
 | **libyaml-static** | 0.2.5-4 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.0.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.1.0 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.5 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.5 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.10.1-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
