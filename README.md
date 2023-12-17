@@ -168,7 +168,7 @@
 | **byacc** | 20230521 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 5.133 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | http://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.23.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
+| **c-ares** | 1.24.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20230303-1 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20230303-1 | Static libraries for c-toxcore | https://tox.chat |
@@ -1879,7 +1879,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.20.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.20.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2412,7 +2412,7 @@
 | **vlc-static** | 3.0.20-2 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.33 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.34 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20230924 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.271 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
