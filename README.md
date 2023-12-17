@@ -1947,7 +1947,7 @@
 | **python-numpy** | 1.26.2 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.2 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.1.0 | Python Imaging Library | https://python-pillow.org/ |
-| **python-pip** | 23.3.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
+| **python-pip** | 23.3.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 12.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-sabyenc3** | 8.0.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-static** | 3.11.6-1 | Static libraries for python | https://python.org/ |
