@@ -2346,7 +2346,7 @@
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **uftrace** | 0.14-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.7 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
-| **ugrep** | 4.4.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 4.4.1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.19.0 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
