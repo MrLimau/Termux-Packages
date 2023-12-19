@@ -154,7 +154,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20230606-1 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.29.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.30.1 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17 | User information lookup program | http://ftp.linux.org.uk/pub/linux/Networking/netkit/ |
@@ -525,7 +525,7 @@
 | **git-svn** | 2.43.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **gitea** | 1.21.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
-| **gitoxide** | 0.31.1 | Rust implementation of Git | https://github.com/Byron/gitoxide |
+| **gitoxide** | 0.32.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.24.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.36.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -607,13 +607,13 @@
 | **gsf-tools** | 1.14.51 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.7.1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.7.1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
-| **gst-libav** | 1.22.8 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
-| **gst-plugins-bad** | 1.22.8 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-base** | 1.22.7-1 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-gl-headers** | 1.22.7-1 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.22.7-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-ugly** | 1.22.7 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.22.8 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-libav** | 1.22.8-1 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
+| **gst-plugins-bad** | 1.22.8-1 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-base** | 1.22.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-gl-headers** | 1.22.8 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.22.8 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-ugly** | 1.22.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.22.8-1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.22.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.9.5-2 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -1301,7 +1301,7 @@
 | **libsqlite-static** | 3.44.2 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.44.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.3 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libssh** | 0.10.5 | Tiny C SSH library | https://www.libssh.org/ |
+| **libssh** | 0.10.6 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.0 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.0 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 2.2.0-1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
