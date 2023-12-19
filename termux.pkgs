@@ -1293,9 +1293,9 @@
 | **libspice-protocol** | 0.14.4 | SPICE protocol headers | https://www.spice-space.org/ |
 | **libspice-server** | 0.15.1-1 | Implements the server side of the SPICE protocol | https://www.spice-space.org/ |
 | **libspice-server-static** | 0.15.1-1 | Static libraries for libspice-server | https://www.spice-space.org/ |
-| **libsqlite** | 3.44.0 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
-| **libsqlite-static** | 3.44.0 | Static libraries for libsqlite | https://www.sqlite.org |
-| **libsqlite-tcl** | 3.44.0 | tcl bindings for SQLite | https://www.sqlite.org |
+| **libsqlite** | 3.44.2 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
+| **libsqlite-static** | 3.44.2 | Static libraries for libsqlite | https://www.sqlite.org |
+| **libsqlite-tcl** | 3.44.2 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.3 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libssh** | 0.10.5 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.0 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -2167,7 +2167,7 @@
 | **spirv-tools** | 1.3.261.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
 | **sqlcipher** | 4.5.5 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlcipher-static** | 4.5.5 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
-| **sqlite** | 3.44.0 | Command line shell for SQLite | https://www.sqlite.org |
+| **sqlite** | 3.44.2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.2.0 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.2.0 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
