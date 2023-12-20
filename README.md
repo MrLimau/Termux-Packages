@@ -854,8 +854,8 @@
 | **libcairomm-1.0** | 1.14.4 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.16.2 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.69 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
-| **libcap-ng** | 2:0.8.3 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-ng-static** | 2:0.8.3 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng** | 2:0.8.4 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng-static** | 2:0.8.4 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-static** | 2.69 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-1 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2 | A C library to access data on a CDDB server | http://libcddb.sourceforge.net/ |
