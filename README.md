@@ -1709,7 +1709,7 @@
 | **nginx** | 1.25.3 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 26.1-2 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 41 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
-| **nim** | 2.0.0 | Nim programming language compiler | https://nim-lang.org/ |
+| **nim** | 2.0.2 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.11.1 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-2 | Space Invaders clone based on ncurses for ASCII output | http://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.11.3 | JSON for Modern C++ | https://github.com/nlohmann/json |
