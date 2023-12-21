@@ -452,7 +452,7 @@
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.53.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
+| **frp** | 0.53.2 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
 | **frpc** | 0.51.3 | frp client | https://gofrp.org/doc |
 | **frps** | 0.51.3 | frp server | https://gofrp.org/doc |
 | **fselect** | 0.8.4 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
@@ -754,7 +754,7 @@
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-1 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 1.9.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 1.9.22 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.21.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubectl** | 1.29.0 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.28.0-1 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
@@ -1251,8 +1251,8 @@
 | **libseat** | 0.8.0 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.5.5-3 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.5.5-3 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
-| **libsecp256k1** | 1:0.4.0 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
-| **libsecp256k1-static** | 1:0.4.0 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1** | 1:0.4.1 | Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1 | https://github.com/bitcoin-core/secp256k1 |
+| **libsecp256k1-static** | 1:0.4.1 | Static libraries for libsecp256k1 | https://github.com/bitcoin-core/secp256k1 |
 | **libsecret** | 0.21.2-1 | A GObject-based library for accessing the Secret Service API | https://gitlab.gnome.org/GNOME/libsecret |
 | **libshout** | 2.4.6 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6 | Static libraries for libshout | https://icecast.org/ |
@@ -1689,7 +1689,7 @@
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2022.07.21 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
-| **neomutt** | 20231103 | A version of mutt with added features | https://neomutt.org/ |
+| **neomutt** | 20231221 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.9.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.0 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
