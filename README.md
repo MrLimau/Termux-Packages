@@ -201,8 +201,8 @@
 | **ccrypt** | 1.11 | Secure encryption and decryption of files and streams utility | http://ccrypt.sourceforge.net/ |
 | **cec-client** | 6.0.2-1 | Client applications for libCEC | http://libcec.pulse-eight.com/ |
 | **ceu-lang** | 2019.07.17 | The Structured Synchronous Reactive Programming Language Céu | https://github.com/ceu-lang/ceu |
-| **cfengine** | 1:3.22.0 | CFEngine is a configuration management technology | https://cfengine.com/ |
-| **cfengine-static** | 1:3.22.0 | Static libraries for cfengine | https://cfengine.com/ |
+| **cfengine** | 1:3.23.0 | CFEngine is a configuration management technology | https://cfengine.com/ |
+| **cfengine-static** | 1:3.23.0 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
 | **cgal** | 5.6 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
@@ -671,7 +671,7 @@
 | **hunspell-nl** | 2013.07.22 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
-| **hut** | 0.3.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~emersion/hut |
+| **hut** | 0.4.0 | A CLI tool for sr.ht | https://git.sr.ht/~emersion/hut |
 | **hydroxide** | 0.2.28 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.18.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.7.3 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -1759,7 +1759,7 @@
 | **openal-soft** | 1.23.1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-8 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.7 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
-| **opencl-clhpp** | 2023.04.17 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
+| **opencl-clhpp** | 2023.12.14 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2023.12.14 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.3.0 | A color management framework for visual effects and animation | https://opencolorio.org |
@@ -1937,7 +1937,7 @@
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.11.6-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.44.2.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
-| **python-apt** | 2.6.0 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 2.7.2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-cryptography** | 41.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.6-1 | Wheels for Python ensurepip | https://python.org/ |
