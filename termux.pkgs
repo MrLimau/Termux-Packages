@@ -519,7 +519,7 @@
 | **git-lfs** | 3.4.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.43.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.21.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.21.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.32.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.24.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -628,7 +628,7 @@
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.19.1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.41.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.41.1 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 23.10 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 23.10 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -717,7 +717,7 @@
 | **jbig2enc-static** | 2023.01.08-1 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.4.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.4.1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jfrog-cli** | 2.52.5 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.52.6 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.2 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -934,8 +934,8 @@
 | **libfcft** | 3.1.6-1 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libfcl** | 0.7.0-1 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
 | **libfdisk** | 2.39.3-3 | Library for manipulating disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
-| **libfdk-aac** | 2.0.2-3 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
-| **libfdk-aac-static** | 2.0.2-3 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
+| **libfdk-aac** | 2.0.3 | Fraunhofer FDK AAC Codec Library | https://github.com/mstorsjo/fdk-aac |
+| **libfdk-aac-static** | 2.0.3 | Static libraries for libfdk-aac | https://github.com/mstorsjo/fdk-aac |
 | **libffi** | 3.4.4-1 | Library providing a portable, high level programming interface to various calling conventions | https://sourceware.org/libffi/ |
 | **libffi-static** | 3.4.4-1 | Static libraries for libffi | https://sourceware.org/libffi/ |
 | **libfinalcut** | 0.9.0 | A C++ class library and widget toolkit for creating a text-based user interface | https://github.com/gansm/finalcut |
