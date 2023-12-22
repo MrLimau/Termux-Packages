@@ -905,7 +905,7 @@
 | **libdispatch** | 1:5.9-1 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
-| **libdrm** | 2.4.118 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
+| **libdrm** | 2.4.119 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
 | **libduckdb** | 0.9.2 | An in-process SQL OLAP database management system | https://duckdb.org/ |
 | **libduckdb-static** | 0.9.2 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
@@ -1941,7 +1941,7 @@
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-cryptography** | 41.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.6-1 | Wheels for Python ensurepip | https://python.org/ |
-| **python-greenlet** | 3.0.2 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
+| **python-greenlet** | 3.0.3 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.60.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.7.0 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
@@ -2071,7 +2071,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.2.2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.2.2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.1.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.1.9 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2312,7 +2312,7 @@
 | **tor** | 0.4.7.16 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
-| **toxic** | 0.12.0 | A command line client for Tox | https://github.com/JFreegman/toxic |
+| **toxic** | 0.13.0 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20221126-1 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.3 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
