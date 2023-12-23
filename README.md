@@ -1607,7 +1607,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2023.12.20.01.00.02 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2023.12.23.07.19.11 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.24.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -2322,7 +2322,7 @@
 | **tree** | 2.1.1 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trurl** | 0.9 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
-| **trzsz-go** | 1.1.6 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
+| **trzsz-go** | 1.1.7 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
 | **tsduck-java** | 3.35.3258 | Java bindings for TSDuck | https://tsduck.io/ |
 | **tsduck-plugins** | 3.35.3258 | Plugins for TSDuck | https://tsduck.io/ |
 | **tsduck-python** | 3.35.3258 | Python bindings for TSDuck | https://tsduck.io/ |
