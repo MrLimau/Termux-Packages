@@ -2429,7 +2429,7 @@
 | **w3m** | 0.5.3.20230121 | Text based Web browser and pager | http://w3m.sourceforge.net/ |
 | **w3m-img** | 0.5.3.20230121 | Inline image extension support utilities for w3m | http://w3m.sourceforge.net/ |
 | **wabt** | 1.0.34 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 1.86.5 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 1.88.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.7.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wapm** | 0.5.9 | WebAssembly Package Manager | https://github.com/wasmerio/wapm-cli |
 | **wasi-libc** | 20 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
