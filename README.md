@@ -1071,8 +1071,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1702233742 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1702233742 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1702296283 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1702296283 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.4.5 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.4.5 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1524,7 +1524,7 @@
 | **lua52** | 5.2.4-8 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1702233742 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1702296283 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.45.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
@@ -1990,8 +1990,8 @@
 | **qemu-utils** | 1:8.0.2-1 | A set of utilities for working with the QEMU emulators | https://www.qemu.org |
 | **qhull** | 8.1-alpha3-0 | Calculate convex hulls and related structures | http://www.qhull.org |
 | **qhull-static** | 8.1-alpha3-0 | Static libraries for qhull | http://www.qhull.org |
-| **qpdf** | 11.6.4 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
-| **qpdf-static** | 11.6.4 | Static libraries for qpdf | http://qpdf.sourceforge.net |
+| **qpdf** | 11.7.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
+| **qpdf-static** | 11.7.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 2.18.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
