@@ -69,12 +69,12 @@
 | **asciidoc** | 10.2.0-3 | Text document format for short documents, articles, books and UNIX man pages. | https://asciidoc.org |
 | **asciidoctor** | 2.0.20 | An implementation of AsciiDoc in Ruby | https://asciidoctor.org/ |
 | **asciinema** | 2.4.0 | Record and share your terminal sessions, the right way | https://asciinema.org/ |
-| **aspell** | 0.60.8-3 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
+| **aspell** | 0.60.8.1 | A free and open source spell checker designed to replace Ispell | http://aspell.net |
 | **aspell-de** | 1:20161207.7.0 | German dictionary for aspell | http://aspell.net/ |
 | **aspell-en** | 1:2020.12.07 | English dictionary for aspell | http://aspell.net/ |
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
-| **aspell-static** | 0.60.8-3 | Static libraries for aspell | http://aspell.net |
+| **aspell-static** | 0.60.8.1 | Static libraries for aspell | http://aspell.net |
 | **assimp** | 5.3.1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **assimp-static** | 5.3.1 | Static libraries for assimp | https://assimp.sourceforge.net/index.html |
 | **astra-sm** | 2019.06.19 | Software for digital TV broadcasting | https://gitlab.com/berdyansk/astra-sm |
@@ -89,7 +89,7 @@
 | **atuin** | 17.1.0 | Magical shell history | https://github.com/ellie/atuin |
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
-| **autoconf** | 2.71-2 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
+| **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autoconf-archive** | 2023.02.20 | A collection of freely re-usable Autoconf macros | https://www.gnu.org/software/autoconf-archive/ |
 | **autoconf213** | 2.13 | Creator of shell scripts to configure source code packages (legacy v2.13) | https://www.gnu.org/software/autoconf/autoconf.html |
 | **autojump** | 22.5.3 | A faster way to navigate your filesystem | https://github.com/wting/autojump |
@@ -154,7 +154,7 @@
 | **brainfuck-static** | 1:2.7.3 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.13 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20230606-1 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.30.1 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.30.2 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.1.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **brotli-static** | 1.0.9-1 | Static libraries for brotli | https://github.com/google/brotli |
 | **bsd-finger** | 0.17 | User information lookup program | http://ftp.linux.org.uk/pub/linux/Networking/netkit/ |
@@ -349,7 +349,7 @@
 | **dtc** | 1.7.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.0 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.23.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.24.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 0.9.2 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -394,7 +394,7 @@
 | **exa** | 0.10.1-7 | A modern replacement for ls | https://the.exa.website |
 | **exercism** | 3.2.0-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 12.70 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 12.71 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
@@ -439,9 +439,9 @@
 | **fluidsynth** | 2.3.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **fm** | 0.16.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:9.1.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
-| **fontconfig** | 2.14.2-2 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-static** | 2.14.2-2 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
-| **fontconfig-utils** | 2.14.2-2 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig** | 2.15.0 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-static** | 2.15.0 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
+| **fontconfig-utils** | 2.15.0 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
 | **fortune** | 1.2-1 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.23 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
@@ -773,8 +773,8 @@
 | **ldns** | 1.8.3-2 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.3-2 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.3.2-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **leptonica** | 1.83.1-1 | Library for image processing and image analysis | http://www.leptonica.com/ |
-| **leptonica-static** | 1.83.1-1 | Static libraries for leptonica | http://www.leptonica.com/ |
+| **leptonica** | 1.84.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
+| **leptonica-static** | 1.84.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 633-1 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.11 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-2 | Fast key-value storage library | https://github.com/google/leveldb |
@@ -826,8 +826,8 @@
 | **libass-static** | 0.17.1 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 2.5.6 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
 | **libassuan-static** | 2.5.6 | Static libraries for libassuan | https://www.gnupg.org/related_software/libassuan/ |
-| **libatomic-ops** | 7.8.0 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
-| **libatomic-ops-static** | 7.8.0 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
+| **libatomic-ops** | 7.8.2 | Provides semi-portable access to hardware-provided atomic memory update operations | https://github.com/ivmai/libatomic_ops |
+| **libatomic-ops-static** | 7.8.2 | Static libraries for libatomic-ops | https://github.com/ivmai/libatomic_ops |
 | **libbcprov-java** | 1.77 | A lightweight cryptography API for Java | https://www.bouncycastle.org/java.html |
 | **libblkid** | 2.39.3-3 | Block device identification library | https://en.wikipedia.org/wiki/Util-linux |
 | **libblocksruntime** | 1:5.9-1 | LLVM Blocks runtime library | https://github.com/apple/swift-corelibs-libdispatch |
@@ -874,7 +874,7 @@
 | **libcoinor-osi-static** | 1:0.108.8 | Static libraries for libcoinor-osi | https://github.com/coin-or/Osi |
 | **libcoinor-utils** | 1:2.11.9 | An open-source collection of classes and helper functions for COIN-OR projects | https://github.com/coin-or/CoinUtils |
 | **libcoinor-utils-static** | 1:2.11.9 | Static libraries for libcoinor-utils | https://github.com/coin-or/CoinUtils |
-| **libcommons-lang3-java** | 3.13.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
+| **libcommons-lang3-java** | 3.14.0 | A host of helper utilities for the java.lang API | https://commons.apache.org/proper/commons-lang/ |
 | **libcompiler-rt** | 17.0.6 | Compiler runtime libraries for clang | https://clang.llvm.org/ |
 | **libconfig** | 1.7.3-3 | C/C++ Configuration File Library | https://github.com/hyperrealm/libconfig |
 | **libconfig-static** | 1.7.3-3 | Static libraries for libconfig | https://github.com/hyperrealm/libconfig |
@@ -1249,8 +1249,8 @@
 | **libsamplerate** | 0.2.2 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-1 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-1 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
-| **libsass** | 3.6.5 | Sass compiler written in C++ | https://github.com/sass/libsass |
-| **libsass-static** | 3.6.5 | Static libraries for libsass | https://github.com/sass/libsass |
+| **libsass** | 3.6.6 | Sass compiler written in C++ | https://github.com/sass/libsass |
+| **libsass-static** | 3.6.6 | Static libraries for libsass | https://github.com/sass/libsass |
 | **libsearpc** | 1:3.2.0-5 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
 | **libsearpc-static** | 1:3.2.0-5 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
 | **libseat** | 0.8.0 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
@@ -1763,7 +1763,7 @@
 | **opencl-clhpp** | 2023.12.14 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2023.12.14 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
-| **opencolorio** | 2.3.0 | A color management framework for visual effects and animation | https://opencolorio.org |
+| **opencolorio** | 2.3.1 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **opencolorio-static** | 2.1.2 | Static libraries for opencolorio | https://opencolorio.org |
 | **opencv** | 4.8.1 | Open Source Computer Vision Library | https://opencv.org/ |
 | **opencv-python** | 4.8.1 | Python bindings for OpenCV | https://opencv.org/ |
