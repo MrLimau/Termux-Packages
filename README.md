@@ -1938,7 +1938,7 @@
 | **pystring** | 1.1.4 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.11.6-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
 | **python-apsw** | 3.44.2.0 | Another Python SQLite Wrapper | https://github.com/rogerbinns/apsw/ |
-| **python-apt** | 2.7.2 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
+| **python-apt** | 2.7.2-1 | Python bindings for APT | https://apt-team.pages.debian.net/python-apt/ |
 | **python-bcrypt** | 4.1.2 | Acceptable password hashing for your software and your servers | https://github.com/pyca/bcrypt |
 | **python-cryptography** | 41.0.7 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ensurepip-wheels** | 3.11.6-1 | Wheels for Python ensurepip | https://python.org/ |
