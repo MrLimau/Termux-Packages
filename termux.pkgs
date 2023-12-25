@@ -1113,6 +1113,8 @@
 | **libmpc** | 1.3.1 | Library for the arithmetic of complex numbers with arbitrarily high precision | http://www.multiprecision.org/ |
 | **libmpc-static** | 1.3.1 | Static libraries for libmpc | http://www.multiprecision.org/ |
 | **libmpdclient** | 2.21 | Asynchronous API library for interfacing MPD in the C, C++ & Objective C languages | https://www.musicpd.org/libs/libmpdclient/ |
+| **libmpeg2** | 0.5.1 | MPEG-2 decoder libraries | https://libmpeg2.sourceforge.io/ |
+| **libmpeg2-static** | 0.5.1 | Static libraries for libmpeg2 | https://libmpeg2.sourceforge.io/ |
 | **libmpfr** | 4.2.1 | C library for multiple-precision floating-point computations with correct rounding | https://www.mpfr.org/ |
 | **libmpfr-static** | 4.2.1 | Static libraries for libmpfr | https://www.mpfr.org/ |
 | **libmsgpack** | 6.0.0 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
@@ -2416,11 +2418,11 @@
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.9.0 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.20-2 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.20-2 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.20-3 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.20-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.38 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.39 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20230924 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.271 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
