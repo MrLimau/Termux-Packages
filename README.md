@@ -385,7 +385,7 @@
 | **enchant-static** | 2.6.4 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.5 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
-| **erlang** | 26.1.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 26.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.19.10 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -1591,9 +1591,9 @@
 | **memcached** | 1.6.22 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 23.2.1-1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 23.2.1-1 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 23.2.1-1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 23.3.1 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 23.3.1 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 23.3.1 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20230406 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.13 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1796,7 +1796,7 @@
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osm2pgsql** | 1.9.2 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
-| **osmesa** | 23.2.1-1 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
+| **osmesa** | 23.3.1 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
