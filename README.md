@@ -743,7 +743,7 @@
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.54-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.30.0 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.30.1 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
@@ -2301,7 +2301,7 @@
 | **tig** | 2.5.8 | Ncurses-based text-mode interface for git | https://jonas.github.io/tig/ |
 | **tilde** | 1.1.3-1 | A text editor for the console/terminal | https://os.ghalkes.nl/tilde/ |
 | **time** | 1.9 | GNU time program for measuring CPU resource usage | https://www.gnu.org/software/time/ |
-| **timewarrior** | 1.6.0 | Command-line time tracker | https://timewarrior.net/ |
+| **timewarrior** | 1.7.0 | Command-line time tracker | https://timewarrior.net/ |
 | **timg** | 1.5.3 | A terminal image and video viewer | https://timg.sh/ |
 | **timidity++** | 2.15.0-1 | MIDI-to-WAVE converter and player | http://timidity.sourceforge.net/ |
 | **tin-summer** | 1.21.14 | Find build artifacts that are taking up disk space | https://github.com/vmchale/tin-summer |
@@ -2509,7 +2509,7 @@
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yosys** | 0.36 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.9.0 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.0 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.40.5 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.1 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-0 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
