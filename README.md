@@ -1563,7 +1563,7 @@
 | **mbedtls** | 3.5.1 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
 | **mbedtls-static** | 3.5.1 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.30 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
-| **mcfly** | 0.8.3 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
+| **mcfly** | 0.8.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.36 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
