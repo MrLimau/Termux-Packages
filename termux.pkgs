@@ -952,8 +952,8 @@
 | **libftxui** | 5.0.0 | A simple C++ library for terminal based user interface | https://github.com/ArthurSonzogni/FTXUI |
 | **libgc** | 8.2.4 | Library providing the Boehm-Demers-Weiser conservative garbage collector | https://www.hboehm.info/gc/ |
 | **libgc-static** | 8.2.4 | Static libraries for libgc | https://www.hboehm.info/gc/ |
-| **libgcrypt** | 1.10.2 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
-| **libgcrypt-static** | 1.10.2 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt** | 1.10.3 | General purpose cryptographic library based on the code from GnuPG | https://www.gnu.org/software/libgcrypt/ |
+| **libgcrypt-static** | 1.10.3 | Static libraries for libgcrypt | https://www.gnu.org/software/libgcrypt/ |
 | **libgd** | 1:2.3.3-3 | GD is an open source code library for the dynamic creation of images by programmers | https://libgd.github.io/ |
 | **libgd-static** | 1:2.3.3-3 | Static libraries for libgd | https://libgd.github.io/ |
 | **libgee** | 0.20.6 | A collection library providing GObject-based interfaces and classes for commonly used data structures | https://wiki.gnome.org/Projects/Libgee |
@@ -2073,7 +2073,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.74.1-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20231218 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20231225 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.1 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.74.1-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.74.1-1 | Rust source code files | https://www.rust-lang.org/ |
