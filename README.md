@@ -385,7 +385,7 @@
 | **enchant-static** | 2.6.4 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.5 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
-| **erlang** | 26.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang** | 26.2.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **esbuild** | 0.19.10 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -743,7 +743,7 @@
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.54-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.30.1 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.30.2 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
