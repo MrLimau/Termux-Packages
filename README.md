@@ -26,7 +26,7 @@
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
-| **aichat** | 0.11.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
+| **aichat** | 0.12.0 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
 | **aidl** | 13.0.0.6-10 | Android Interface Definition Language (AIDL) | https://elinux.org/Android_aapt |
 | **alass** | 2.0.0-2 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.5 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -2485,7 +2485,7 @@
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.20.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
-| **xmake** | 2.8.5 | A cross-platform build utility based on Lua | https://xmake.io/ |
+| **xmake** | 2.8.6 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.2 | XML Security Library | https://www.aleksey.com/xmlsec/ |
 | **xmlsec-static** | 1.3.2 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-5 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |
