@@ -497,8 +497,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.13.5 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.13.5 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.13.6 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.13.6 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 0.22.4 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 0.22.4 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.2 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -2271,7 +2271,7 @@
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
 | **termplay** | 2.0.6 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |
-| **termux-am** | 0.7.1 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
+| **termux-am** | 0.8.0 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
 | **termux-am-socket** | 1.5.0 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
 | **termux-api** | 0.58.0 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
 | **termux-api-static** | 0.58.0 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
