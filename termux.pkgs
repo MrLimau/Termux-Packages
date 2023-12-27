@@ -18,7 +18,7 @@
 | **acr** | 2.1.2 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.16.0 | A pretty good email client | https://aerc-mail.org/ |
-| **agate** | 3.3.1 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
+| **agate** | 3.3.3 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
@@ -1067,8 +1067,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1702296283 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1702296283 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1703358377 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1703358377 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.4.5 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.4.5 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1521,7 +1521,7 @@
 | **lua52** | 5.2.4-8 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1702296283 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1703358377 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.45.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
