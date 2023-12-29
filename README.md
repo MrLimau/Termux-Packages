@@ -1103,7 +1103,7 @@
 | **libmicrohttpd** | 0.9.77 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
 | **libmicrohttpd-static** | 0.9.77 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
 | **libminizip** | 1.3 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
-| **libminizip-ng** | 4.0.3 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
+| **libminizip-ng** | 4.0.4 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
 | **libminizip-static** | 1.3 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
 | **libmnl** | 1.0.5 | a minimalistic user-space library oriented to Netlink developers | https://www.netfilter.org/projects/libmnl/ |
 | **libmnl-static** | 1.0.5 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
