@@ -1753,7 +1753,7 @@
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.4 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-7 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
-| **onefetch** | 2.18.1-1 | A command-line Git information tool written in Rust | https://github.com/o2sh/onefetch |
+| **onefetch** | 2.19.0 | A command-line Git information tool written in Rust | https://github.com/o2sh/onefetch |
 | **oniguruma** | 6.9.9 | Regular expressions library | https://github.com/kkos/oniguruma |
 | **oniguruma-static** | 6.9.9 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
 | **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
@@ -2203,7 +2203,7 @@
 | **sssnake** | 0.3.2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
-| **starship** | 1.16.0-1 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
+| **starship** | 1.17.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
 | **stdman** | 2022.07.30 | Formatted C++20 stdlib man pages (cppreference) | https://github.com/jeaye/stdman |
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-6 | Embeds a message in a file by replacing some of the least significant bits | http://steghide.sourceforge.net/ |
