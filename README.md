@@ -1883,7 +1883,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.20.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.20.2 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2404,7 +2404,7 @@
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-1 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
-| **vcsh** | 2.0.6 | Config manager based on Git | https://github.com/RichiH/vcsh |
+| **vcsh** | 2.0.7 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-1 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
 | **vde2-static** | 2.3.3-1 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.11.1 | HTTP load testing tool | https://github.com/tsenart/vegeta |
