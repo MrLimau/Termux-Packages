@@ -551,7 +551,7 @@
 | **gnunet** | 0.19.4-1 | A framework for secure peer-to-peer networking | https://gnunet.org |
 | **gnunet-static** | 0.19.4-1 | Static libraries for gnunet | https://gnunet.org |
 | **gnupg** | 2.4.3 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
-| **gnuplot** | 5.4.10 | Command-line driven graphing utility | http://gnuplot.info/ |
+| **gnuplot** | 6.0.0 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
 | **gnurl-static** | 7.72.0 | Static libraries for gnurl | https://gnunet.org/en/gnurl.html |
 | **gnushogi** | 1.4.2-4 | Program that plays the game of Shogi, also known as Japanese Chess | https://www.gnu.org/software/gnushogi/ |
@@ -1693,7 +1693,7 @@
 | **nelua** | 2022.07.21 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20231221 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.9.4 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.9.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.0 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.4 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2343,7 +2343,7 @@
 | **ttyc** | 0.4-3 | ttyd protocol client | https://github.com/Depau/ttyc |
 | **ttyd** | 1.7.4-1 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
 | **ttyper** | 1.4.0 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
-| **ttyplot** | 1.6.0 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
+| **ttyplot** | 1.6.1 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-7 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **tut** | 2.0.1-2 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
