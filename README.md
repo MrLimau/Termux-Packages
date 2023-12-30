@@ -387,7 +387,7 @@
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.5 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
 | **erlang** | 26.2.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **esbuild** | 0.19.10 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
+| **esbuild** | 0.19.11 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.51-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.51-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.8-2 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
@@ -2404,7 +2404,7 @@
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-1 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
-| **vcsh** | 2.0.5 | Config manager based on Git | https://github.com/RichiH/vcsh |
+| **vcsh** | 2.0.6 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-1 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
 | **vde2-static** | 2.3.3-1 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.11.1 | HTTP load testing tool | https://github.com/tsenart/vegeta |
