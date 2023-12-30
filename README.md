@@ -460,7 +460,7 @@
 | **frp** | 0.53.2 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
 | **frpc** | 0.51.3 | frp client | https://gofrp.org/doc |
 | **frps** | 0.51.3 | frp server | https://gofrp.org/doc |
-| **fselect** | 0.8.4 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
+| **fselect** | 0.8.5 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
 | **fsmon** | 1.8.5 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
@@ -2347,7 +2347,7 @@
 | **ttyc** | 0.4-3 | ttyd protocol client | https://github.com/Depau/ttyc |
 | **ttyd** | 1.7.4-1 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
 | **ttyper** | 1.4.0 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
-| **ttyplot** | 1.5.2 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
+| **ttyplot** | 1.6.0 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-7 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **tut** | 2.0.1-2 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
