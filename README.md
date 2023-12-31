@@ -33,7 +33,7 @@
 | **algernon** | 1.15.5 | Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support | https://algernon.roboticoverlords.org/ |
 | **alist** | 3.29.1 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
-| **amber** | 0.5.9-1 | A code search / replace tool | https://github.com/dalance/amber |
+| **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
 | **ambr** | 0.5.9 | amber replace | https://github.com/dalance/amber |
 | **ambs** | 0.5.9 | amber search | https://github.com/dalance/amber |
 | **amfora** | 1.9.2-3 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
@@ -365,7 +365,7 @@
 | **e2tools** | 0.1.0 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.19 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
-| **edbrowse** | 3.8.7 | Line based editor, browser, and mail client | https://edbrowse.org/ |
+| **edbrowse** | 3.8.8 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
 | **eja** | 13.11.25-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.6 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
