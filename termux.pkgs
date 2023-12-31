@@ -683,8 +683,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.24-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.24-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.25 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.25 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.9 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.1-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
