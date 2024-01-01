@@ -2037,7 +2037,7 @@
 | **restic** | 0.16.2 | Fast, secure, efficient backup program | https://restic.net/ |
 | **restic-server** | 0.12.1-1 | Restic's REST backend API server | https://restic.net/ |
 | **restish** | 0.20.0 | A CLI for interacting with REST-ish HTTP APIs | https://github.com/danielgtaylor/restish |
-| **rgbds** | 0.6.1 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
+| **rgbds** | 0.7.0 | Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color | https://rgbds.gbdev.io |
 | **rhash** | 1.4.4 | Console utility for calculation and verification of magnet links and a wide range of hash sums | https://github.com/rhash/RHash |
 | **rhash-static** | 1.4.4 | Static libraries for rhash | https://github.com/rhash/RHash |
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
