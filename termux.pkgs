@@ -462,7 +462,7 @@
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.10-5 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 31.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.44.1 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
+| **fzf** | 0.45.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.78.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -1991,7 +1991,7 @@
 | **qpdf** | 11.7.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qpdf-static** | 11.7.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **quick-lint-js** | 2.18.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
+| **quick-lint-js** | 3.0.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.67 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **racket** | 8.11.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
