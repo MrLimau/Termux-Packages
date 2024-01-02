@@ -194,7 +194,7 @@
 | **cboard** | 0.7.5-4 | PGN browser, editor and chess engine frontend | https://benkibbey.wordpress.com/cboard/ |
 | **cbonsai** | 1.3.1-1 | Grow bonsai trees in your terminal | https://gitlab.com/jallbrit/cbonsai |
 | **cc65** | 2.19 | A free compiler for 6502 based system. | https://cc65.github.io/ |
-| **ccache** | 4.8.3 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
+| **ccache** | 4.9 | Compiler cache for fast recompilation of C/C++ code | https://ccache.samba.org |
 | **cccc** | 3.2.0 | Source code counter and metrics tool for C++, C, and Java | https://sarnold.github.io/cccc/ |
 | **ccextractor** | 0.94-4 | A tool used to produce subtitles for TV recordings | https://ccextractor.org/ |
 | **ccls** | 0.20220729-1 | C/C++/ObjC language server | https://github.com/MaskRay/ccls |
@@ -1950,7 +1950,7 @@
 | **python-libsass** | 0.22.0 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-numpy** | 1.26.2 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.2 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-pillow** | 10.1.0 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 10.2.0 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 23.3.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 12.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-sabyenc3** | 8.1.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
@@ -2244,7 +2244,7 @@
 | **swig** | 4.1.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.8.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.27.1 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.27.2 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.4.0-1 | Technical analysis library with indicators like ADX. | https://sourceforge.net/projects/ta-lib/ |
 | **ta-lib-static** | 0.4.0-1 | Static libraries for ta-lib | https://sourceforge.net/projects/ta-lib/ |
@@ -2288,7 +2288,7 @@
 | **termux-keyring** | 3.11 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.40.1 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.40.2 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.3.3-1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
