@@ -86,7 +86,7 @@
 | **atool** | 0.39.0-1 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.5.1 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.5.1 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 17.1.0 | Magical shell history | https://github.com/ellie/atuin |
+| **atuin** | 17.2.1 | Magical shell history | https://github.com/ellie/atuin |
 | **aubio** | 0.4.9-2 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-2 | Static libraries for aubio | https://aubio.org/ |
 | **autoconf** | 2.72 | Creator of shell scripts to configure source code packages | https://www.gnu.org/software/autoconf/autoconf.html |
@@ -1883,7 +1883,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.20.3 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.20.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
