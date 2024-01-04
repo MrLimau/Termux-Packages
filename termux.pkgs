@@ -2091,7 +2091,7 @@
 | **rustscan** | 2.1.1 | The modern,fast,smart and effective port scanner | https://rustscan.github.io/RustScan |
 | **rw** | 1.0.1 | A Rust implementation of sponge(1) that never write to TMPDIR | https://github.com/jridgewell/rw |
 | **rxfetch** | 2023.01.07 | A custom system info fetching tool | https://github.com/Mangeshrex/rxfetch |
-| **sabnzbd** | 4.1.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
+| **sabnzbd** | 4.2.0 | Fully automated Usenet Binary Downloader | https://sabnzbd.org/ |
 | **salty-chat** | 0.0.22-3 | A secure, easy, self-hosted messaging | https://salty.im/ |
 | **samba** | 4.16.11 | SMB/CIFS fileserver | https://www.samba.org/ |
 | **samefile** | 2.15-5 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
@@ -2318,7 +2318,7 @@
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 3.7.1 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 13.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
-| **tor** | 0.4.7.16 | The Onion Router anonymizing overlay network | https://www.torproject.org |
+| **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **toxic** | 0.13.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
