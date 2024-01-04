@@ -740,7 +740,7 @@
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.54-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.30.7 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.30.8 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
@@ -2122,7 +2122,7 @@
 | **serf** | 1.3.10 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.0 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
-| **shaderc** | 2023.7 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
+| **shaderc** | 2023.8 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **shairport-sync** | 3.1.2-6 | An AirPlay audio player | https://github.com/mikebrady/shairport-sync |
 | **sharutils** | 4.15.2-3 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-3 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
@@ -2375,7 +2375,7 @@
 | **up** | 0.4-3 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 6.8-6-0 | Update or create index file from all installed info files in directory | https://packages.debian.org/sid/texinfo |
 | **upscaledb-tools** | 2.2.1p20210820-9 | Tools for upscaledb | https://upscaledb.com/ |
-| **upx** | 4.2.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
+| **upx** | 4.2.2 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 3.1.0 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 1.1.0 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20230421-0 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
