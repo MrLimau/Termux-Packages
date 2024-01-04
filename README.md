@@ -774,8 +774,8 @@
 | **ldns** | 1.8.3-2 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.3-2 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.3.2-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **leptonica** | 1.84.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
-| **leptonica-static** | 1.84.0 | Static libraries for leptonica | http://www.leptonica.com/ |
+| **leptonica** | 1.84.1 | Library for image processing and image analysis | http://www.leptonica.com/ |
+| **leptonica-static** | 1.84.1 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 633-1 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.11 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-2 | Fast key-value storage library | https://github.com/google/leveldb |
