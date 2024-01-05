@@ -659,7 +659,7 @@
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.121.1 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.121.2 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20210101 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1527,7 +1527,7 @@
 | **luv** | 1.45.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-2 | A plugin standard for audio systems | https://lv2plug.in/ |
-| **lychee** | 0.13.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
+| **lychee** | 0.14.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-7 | The text web browser | http://lynx.browser.org/ |
 | **lz4** | 1.9.4 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.23-1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
@@ -2356,7 +2356,7 @@
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
 | **uftrace** | 0.14-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.7 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
-| **ugrep** | 4.4.1 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
+| **ugrep** | 4.5.0 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.19.0 | Unbound command-line tools | https://unbound.net/ |
 | **unbound-static** | 1.17.1 | Static libraries for unbound | https://unbound.net/ |
@@ -2482,8 +2482,8 @@
 | **xh** | 0.20.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.8.6 | A cross-platform build utility based on Lua | https://xmake.io/ |
-| **xmlsec** | 1.3.2 | XML Security Library | https://www.aleksey.com/xmlsec/ |
-| **xmlsec-static** | 1.3.2 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
+| **xmlsec** | 1.3.3 | XML Security Library | https://www.aleksey.com/xmlsec/ |
+| **xmlsec-static** | 1.3.3 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-5 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |
 | **xmlto** | 0.0.28-1 | Convert xml to many other formats | https://pagure.io/xmlto/ |
 | **xmppc** | 0.1.2-2 | Command Line Interface Tool for XMPP | https://codeberg.org/Anoxinon_e.V./xmppc |
