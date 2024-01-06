@@ -1524,7 +1524,7 @@
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **luajit** | 1:2.1.1703358377 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
-| **luv** | 1.45.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
+| **luv** | 1.47.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-2 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.14.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
@@ -2141,7 +2141,7 @@
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.7.8 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.8.0 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 0.2.2-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.02-2 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
