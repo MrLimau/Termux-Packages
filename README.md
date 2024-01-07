@@ -308,7 +308,7 @@
 | **dialog-static** | 1.3-20230209-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
 | **diffstat** | 1.65-1 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
-| **difftastic** | 0.53.1 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
+| **difftastic** | 0.54.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.10 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
 | **direnv** | 2.33.0 | Environment switcher for shell | https://github.com/direnv/direnv |
@@ -748,7 +748,7 @@
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
-| **kcptun** | 20231012 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
+| **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
 | **kcptun-client** | 20230811 | kcptun client | https://github.com/xtaci/kcptun |
 | **kcptun-server** | 20230811 | kcptun server | https://github.com/xtaci/kcptun |
 | **keybase** | 6.2.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
@@ -2320,7 +2320,7 @@
 | **toilet** | 0.3-2 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 13.0.0-alpha.0-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
-| **toml11** | 3.8.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
+| **toml11** | 3.8.1 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 13.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
