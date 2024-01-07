@@ -247,7 +247,7 @@
 | **colm** | 0.14.7-1 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-1 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.21 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 2.4.0-5 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 2.4.0-6 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.6.6 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **cookcli** | 0.7.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
@@ -676,8 +676,8 @@
 | **hydroxide** | 0.2.28 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.18.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.7.3 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
-| **i2pd** | 2.50.1 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
-| **i2pd-static** | 2.50.1 | Static libraries for i2pd | https://i2pd.website/ |
+| **i2pd** | 2.50.2 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
+| **i2pd-static** | 2.50.2 | Static libraries for i2pd | https://i2pd.website/ |
 | **icecast** | 2.4.4-5 | Icecast is a streaming media (audio/video) server | https://icecast.org |
 | **ices** | 2.0.3 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
 | **iconv** | 1.17 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
@@ -1352,8 +1352,8 @@
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
 | **libtreesitter** | 0.20.8 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
 | **libtreesitter-static** | 0.20.8 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
-| **libtsduck** | 3.35.3258 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
-| **libtsduck-static** | 3.35.3258 | Static libraries for libtsduck | https://tsduck.io/ |
+| **libtsduck** | 3.36.3528 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
+| **libtsduck-static** | 3.36.3528 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
 | **libtwolame** | 0.4.0 | An optimised MPEG Audio Layer 2 (MP2) encoder | https://www.twolame.org/ |
 | **libtwolame-static** | 0.4.0 | Static libraries for libtwolame | https://www.twolame.org/ |
@@ -2047,7 +2047,7 @@
 | **rig** | 1.11-1 | A program that generates fake identities | http://rig.sourceforge.net/ |
 | **rinetd** | 1:0.73-1 | A user-mode TCP port redirection server | https://github.com/samhocevar/rinetd |
 | **rip** | 0.13.1-1 | A command-line deletion tool focused on safety, ergonomics, and performance | https://github.com/nivekuil/rip |
-| **ripgrep** | 14.0.3 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
+| **ripgrep** | 14.1.0 | Search tool like grep and The Silver Searcher | https://github.com/BurntSushi/ripgrep |
 | **ripgrep-all** | 1.0.0-alpha.5-2 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.7 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7 | A terminal IRC client in C | https://github.com/rcr/rirc |
@@ -2334,10 +2334,10 @@
 | **trojan-go** | 0.10.6-3 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trurl** | 0.9 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
 | **trzsz-go** | 1.1.7 | A simple file transfer tools, similar to lrzsz ( rz / sz ) | https://trzsz.github.io/ |
-| **tsduck-java** | 3.35.3258 | Java bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-plugins** | 3.35.3258 | Plugins for TSDuck | https://tsduck.io/ |
-| **tsduck-python** | 3.35.3258 | Python bindings for TSDuck | https://tsduck.io/ |
-| **tsduck-tools** | 3.35.3258 | Command line tools for TSDuck | https://tsduck.io/ |
+| **tsduck-java** | 3.36.3528 | Java bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-plugins** | 3.36.3528 | Plugins for TSDuck | https://tsduck.io/ |
+| **tsduck-python** | 3.36.3528 | Python bindings for TSDuck | https://tsduck.io/ |
+| **tsduck-tools** | 3.36.3528 | Command line tools for TSDuck | https://tsduck.io/ |
 | **tsmuxer** | 2023.01.30 | A transport stream muxer for remuxing/muxing elementary streams | https://github.com/justdan96/tsMuxer |
 | **tsocks** | 1.8beta5-4 | transparent network access through a SOCKS 4 or 5 proxy | http://tsocks.sf.net |
 | **tsu** | 8.6.0 | A su wrapper for Termux | https://github.com/cswl/tsu |
