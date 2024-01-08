@@ -59,6 +59,7 @@
 | **apt-file** | 3.3 | search for files within packages | https://wiki.debian.org/apt-file |
 | **apt-ftparchive** | 2.7.7 | apt-ftparchive is the command line tool that generates the index files that APT uses to access a distribution source | https://packages.debian.org/apt |
 | **apt-transport-tor** | 2.7.7 | APT transport for anonymous package downloads via Tor | https://packages.debian.org/apt |
+| **aptitude** | 0.8.13 | terminal-based package manager | https://wiki.debian.org/Aptitude |
 | **aptly** | 1.5.0-3 | A Swiss Army knife for Debian repository management | https://www.aptly.info |
 | **argon2** | 20190702-1 | A password-hashing function (reference C implementation) | https://github.com/P-H-C/phc-winner-argon2 |
 | **argon2-static** | 20190702-1 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
@@ -730,7 +731,7 @@
 | **jo** | 1.9 | JSON output from a shell | https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/ |
 | **joe** | 4.6-2 | Wordstar like text editor | http://joe-editor.sourceforge.net |
 | **jove** | 4.17.5.3 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
-| **jp2a** | 1.1.1-1 | A simple JPEG to ASCII converter | https://csl.name/jp2a/ |
+| **jp2a** | 1.2.0 | A simple JPEG to ASCII converter | https://csl.name/jp2a/ |
 | **jpegoptim** | 1.5.5 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.7 | Command-line JSON processor | http://stedolan.github.io/jq/ |
 | **jq-static** | 1.7 | Static libraries for jq | http://stedolan.github.io/jq/ |
@@ -890,6 +891,8 @@
 | **libcunit-static** | 2.1.3 | Static libraries for libcunit | https://sourceforge.net/projects/cunit/ |
 | **libcurl** | 8.5.0 | Easy-to-use client-side URL transfer library | https://curl.se/ |
 | **libcurl-static** | 8.5.0 | Static libraries for libcurl | https://curl.se/ |
+| **libcwidget** | 0.5.18 | high-level terminal interface library for C++ | https://salsa.debian.org/cwidget-team/ |
+| **libcwidget-static** | 0.5.18 | Static libraries for libcwidget | https://salsa.debian.org/cwidget-team/ |
 | **libczmq** | 4.2.1-3 | High-level C binding for ZeroMQ | https://zeromq.org/ |
 | **libczmq-static** | 4.2.1-3 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
@@ -2426,7 +2429,7 @@
 | **vlc-static** | 3.0.20-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.44 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.51 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.274 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
