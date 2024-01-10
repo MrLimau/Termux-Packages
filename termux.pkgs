@@ -1589,7 +1589,7 @@
 | **mediainfo** | 23.11 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.6.3-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
-| **memcached** | 1.6.22 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
+| **memcached** | 1.6.23 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
 | **mesa** | 23.3.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
@@ -2287,7 +2287,7 @@
 | **termux-keyring** | 3.11 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.40.4 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.40.5 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.3.3-1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
@@ -2397,7 +2397,7 @@
 | **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.14 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.14 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 2.30.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.0.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
