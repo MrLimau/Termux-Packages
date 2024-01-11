@@ -1043,8 +1043,8 @@
 | **libjpeg-turbo** | 3.0.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.0.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.0.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.9.0 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.9.0 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.9.1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.9.1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.0.0 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-1 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-1 | Static libraries for libknot | https://www.knot-dns.cz/ |
