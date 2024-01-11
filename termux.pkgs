@@ -1994,7 +1994,7 @@
 | **qpdf** | 11.8.0 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qpdf-static** | 11.8.0 | Static libraries for qpdf | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-3 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **quick-lint-js** | 3.0.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
+| **quick-lint-js** | 3.1.0 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs** | 1:20210327-2 | QuickJS is a small and embeddable Javascript engine | https://bellard.org/quickjs/ |
 | **quilt** | 0.67 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **racket** | 8.11.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
