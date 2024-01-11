@@ -903,6 +903,7 @@
 | **libde265** | 1.0.15 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.15 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.190 | Library for debuginfod | https://sourceware.org/elfutils/ |
+| **libdecor** | 0.2.1 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
 | **libdeflate** | 1.19 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.19 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-5 | A cross-platform image library utilizing a simple syntax | http://openil.sourceforge.net/ |
