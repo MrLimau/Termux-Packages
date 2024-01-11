@@ -565,8 +565,8 @@
 | **gobject-introspection** | 1.78.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.14 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.21.5 | Go programming language compiler | https://golang.org/ |
-| **golang-doc** | 3:1.21.5 | Go programming language - documentation | https://golang.org/ |
+| **golang** | 3:1.21.6 | Go programming language compiler | https://golang.org/ |
+| **golang-doc** | 3:1.21.6 | Go programming language - documentation | https://golang.org/ |
 | **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 0.3.0-3 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
@@ -2358,7 +2358,7 @@
 | **typst** | 0.10.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
-| **uftrace** | 0.14-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.15 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.7 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 4.5.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
