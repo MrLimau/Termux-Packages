@@ -745,7 +745,7 @@
 | **jupp** | 3.1jupp41 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **jython** | 2.7.3 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.54-4 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
-| **k9s** | 0.31.3 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
+| **k9s** | 0.31.4 | Kubernetes CLI To Manage Your Clusters In Style! | https://k9scli.io |
 | **kainjow-mustache** | 4.1 | Mustache implementation for modern C++ | https://github.com/kainjow/Mustache |
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
@@ -1245,8 +1245,8 @@
 | **librinutils** | 0.10.2 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
 | **librnnoise** | 2021.03.12 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 2021.03.12 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
-| **librocksdb** | 8.9.1 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
-| **librocksdb-static** | 8.9.1 | Static libraries for librocksdb | https://rocksdb.org/ |
+| **librocksdb** | 8.10.0 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
+| **librocksdb-static** | 8.10.0 | Static libraries for librocksdb | https://rocksdb.org/ |
 | **librsvg** | 2.57.1 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-1 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
@@ -1596,9 +1596,9 @@
 | **memcached** | 1.6.23 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 23.3.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 23.3.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 23.3.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 23.3.3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 23.3.3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 23.3.3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20230406 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.13 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -1801,7 +1801,7 @@
 | **opusfile-static** | 0.12-3 | Static libraries for opusfile | https://www.opus-codec.org/ |
 | **osm2pgsql** | 1.9.2 | osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database | https://osm2pgsql.org/ |
 | **osmctools** | 0.9-2 | Simple tools for OpenStreetMap processing | https://gitlab.com/osm-c-tools/osmctools |
-| **osmesa** | 23.3.2 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
+| **osmesa** | 23.3.3 | Mesa Off-screen Rendering Library | https://www.mesa3d.org |
 | **osmium-tool** | 1.16.0-1 | A multipurpose command line tool based on the Osmium Library | https://osmcode.org/osmium-tool/ |
 | **ossp-uuid** | 1.6.2-3 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-3 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
@@ -2107,7 +2107,7 @@
 | **sc-im** | 0.8.3-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.3.1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.2.0-3 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
-| **sccache** | 0.7.4 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
+| **sccache** | 0.7.5 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.4.3 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.2-2 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **scheme48** | 1.9.2 | An implementation of the Scheme programming language | https://www.s48.org/ |
