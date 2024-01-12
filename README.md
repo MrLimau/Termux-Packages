@@ -263,7 +263,7 @@
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
 | **croc** | 9.6.6 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
-| **cronie** | 1.7.0 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
+| **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
 | **crypto-monitor** | 2021.02.22-3 | Real-time crypto currency monitor | https://github.com/edghyhdz/crypto_monitor |
@@ -1297,7 +1297,7 @@
 | **libspatialindex** | 1.9.3 | C++ implementation of R*-tree, an MVR-tree and a TPR-tree with C API | https://libspatialindex.github.io |
 | **libspatialite** | 5.1.0 | SQLite extension to support spatial data types and operations | https://www.gaia-gis.it/fossil/libspatialite |
 | **libspatialite-static** | 5.1.0 | Static libraries for libspatialite | https://www.gaia-gis.it/fossil/libspatialite |
-| **libspdlog** | 1.12.0 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
+| **libspdlog** | 1.13.0 | Very fast, header-only/compiled, C++ logging library | https://github.com/gabime/spdlog |
 | **libspectre** | 0.2.12 | A small library for rendering Postscript documents | https://www.freedesktop.org/wiki/Software/libspectre/ |
 | **libspectre-static** | 0.2.12 | Static libraries for libspectre | https://www.freedesktop.org/wiki/Software/libspectre/ |
 | **libspeex** | 1.2.1 | A patent-free, Open Source/Free Software voice codec | https://www.speex.org/ |
@@ -2031,9 +2031,9 @@
 | **readline-static** | 8.2.1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.36.2 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-python** | 1.36.2 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-static** | 1.36.2 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll** | 1.37.0 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-python** | 1.37.0 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-static** | 1.37.0 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
