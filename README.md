@@ -239,7 +239,7 @@
 | **cmark-static** | 0.30.3 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 1.1.7 | cmocka is an unit testing framework for C | https://cmocka.org/ |
-| **cmus** | 2.10.0-6 | Small, fast and powerful console music player | https://cmus.github.io/ |
+| **cmus** | 2.10.0-7 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-9 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
 | **coinor-clp** | 1:1.17.9 | An open-source linear programming solver | https://github.com/coin-or/Clp |
