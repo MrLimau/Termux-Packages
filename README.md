@@ -1613,8 +1613,8 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.01.11.07.46.16 | Multi-Cloud Object Storage | https://min.io/ |
-| **miniserve** | 0.25.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
+| **minio** | 2024.01.13.07.53.03 | Multi-Cloud Object Storage | https://min.io/ |
+| **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.2.5 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
@@ -1887,7 +1887,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.20.5 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.20.6 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
