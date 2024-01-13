@@ -910,7 +910,7 @@
 | **libdispatch** | 1:5.9-1 | The libdispatch project, for concurrency on multicore hardware | https://github.com/apple/swift-corelibs-libdispatch |
 | **libdmtx** | 0.7.7 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.7 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
-| **libdrm** | 2.4.119 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
+| **libdrm** | 2.4.120 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
 | **libduckdb** | 0.9.2 | An in-process SQL OLAP database management system | https://duckdb.org/ |
 | **libduckdb-static** | 0.9.2 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
@@ -1631,7 +1631,7 @@
 | **mono** | 6.12.0.199 | Cross platform, open source .NET framework | https://www.mono-project.com/ |
 | **mono-libs** | 6.12.0.199 | Platform-independent libraries for mono | https://www.mono-project.com/ |
 | **mono-static** | 6.12.0.199 | Static libraries for mono | https://www.mono-project.com/ |
-| **monolith** | 2.7.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.8.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.0.51-5 | Simple game where you drive a car across the moon's surface | https://github.com/seehuhn/moon-buggy |
 | **moreutils** | 0.67 | A growing collection of the unix tools that nobody thought to write thirty years ago | http://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-4 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2402,7 +2402,7 @@
 | **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.14 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.14 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.0.3 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.0.4 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
