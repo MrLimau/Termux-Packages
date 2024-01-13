@@ -2362,7 +2362,7 @@
 | **typst** | 0.10.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
-| **uftrace** | 0.15 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.15.1-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.7 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 4.5.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
