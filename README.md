@@ -251,13 +251,13 @@
 | **command-not-found** | 2.4.0-7 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.6.6 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
-| **cookcli** | 0.7.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.7.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.4 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-4 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-3 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **cowsay** | 3.7.0 | Program which generates ASCII pictures of a cow with a message | https://en.wikipedia.org/wiki/Cowsay |
 | **cpio** | 2.14 | CPIO implementation from the GNU project | https://www.gnu.org/software/cpio/ |
-| **cppcheck** | 2.13.0 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
+| **cppcheck** | 2.13.1 | tool for static C/C++ code analysis | https://github.com/danmar/cppcheck |
 | **cppi** | 1.18-1 | Indents C preprocessor directives to reflect their nesting, among other regularizations | https://www.gnu.org/software/cppi/ |
 | **cpufetch** | 1.04 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
@@ -707,7 +707,7 @@
 | **iperf3-static** | 3.15 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipfs** | 0.25.0 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.6.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 6.7.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.1.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
