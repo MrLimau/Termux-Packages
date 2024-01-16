@@ -903,7 +903,7 @@
 | **libde265** | 1.0.15 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.15 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.190 | Library for debuginfod | https://sourceware.org/elfutils/ |
-| **libdecor** | 0.2.1 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
+| **libdecor** | 0.2.2 | Client-side decorations library for Wayland clients | https://gitlab.freedesktop.org/libdecor/libdecor |
 | **libdeflate** | 1.19 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.19 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-5 | A cross-platform image library utilizing a simple syntax | http://openil.sourceforge.net/ |
@@ -1887,7 +1887,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.20.6 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.20.7 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2402,7 +2402,7 @@
 | **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.14 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.14 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.0.4 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.0.5 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valgrind** | 3.22.0 | Instrumentation framework for building dynamic analysis tools | https://valgrind.org/ |
 | **valgrind-static** | 3.22.0 | Static libraries for valgrind | https://valgrind.org/ |
 | **vamp-plugin-sdk** | 2.10-1 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
@@ -2514,7 +2514,7 @@
 | **yarn** | 1.22.19-1 | Fast, reliable, and secure dependency management | https://yarnpkg.com/ |
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
-| **yosys** | 0.36 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.37 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.0 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.40.5 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.1 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
