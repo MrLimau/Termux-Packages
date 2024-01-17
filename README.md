@@ -2187,8 +2187,8 @@
 | **spiped** | 1.6.2-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.3.261.1 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-tools** | 1.3.261.1 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.5.5 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
-| **sqlcipher-static** | 4.5.5 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher** | 4.5.6 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher-static** | 4.5.6 | Static libraries for sqlcipher | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.44.2 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.2.0 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.2.0 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
