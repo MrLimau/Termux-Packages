@@ -1952,7 +1952,7 @@
 | **python-lxml** | 5.1.0 | A straightforward binding of libsass for Python | https://github.com/lxml/lxml |
 | **python-numpy** | 1.26.3 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 1.26.3 | Static libraries for python-numpy | https://numpy.org/ |
-| **python-pillow** | 10.2.0 | Python Imaging Library | https://python-pillow.org/ |
+| **python-pillow** | 10.2.0-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 23.3.2 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pyarrow** | 12.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-sabyenc3** | 8.1.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
