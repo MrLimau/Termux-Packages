@@ -378,10 +378,10 @@
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.19.2-2 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 3.1.51 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 3.1.51 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 3.1.51 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 3.1.51 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 3.1.52 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 3.1.52 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 3.1.52 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 3.1.52 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-2 | A tool for compositing images using a Burt&Adelson multiresolution spline | http://enblend.sourceforge.net/ |
 | **enchant** | 2.6.5 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.6.5 | Static libraries for enchant | https://abiword.github.io/enchant/ |
