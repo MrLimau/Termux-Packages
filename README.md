@@ -2068,7 +2068,7 @@
 | **rpm** | 4.18.1 | RPM Package Manager | https://rpm.org/ |
 | **rq** | 1.0.4 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
 | **rsnapshot** | 1.4.5 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.2.7 | Utility that provides fast incremental file transfer | https://rsync.samba.org/ |
+| **rsync** | 3.2.7-1 | Utility that provides fast incremental file transfer | https://rsync.samba.org/ |
 | **rtmpdump** | 2.4-6 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.4-6 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.9.8-2 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
