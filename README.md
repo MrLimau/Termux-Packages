@@ -2300,7 +2300,7 @@
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.1 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
-| **texlab** | 5.12.1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
+| **texlab** | 5.12.2 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
 | **texlive-bin** | 20230313-2 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 20230313-2 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20230313 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
