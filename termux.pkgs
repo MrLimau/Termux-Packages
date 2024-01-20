@@ -401,7 +401,7 @@
 | **fakeroot** | 1.32.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.32.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.6.0 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.6.1 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -2223,7 +2223,7 @@
 | **stunnel** | 5.71 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.71 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-3 | An open source STUN server | https://www.stunprotocol.org/ |
-| **stylua** | 0.19.1 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
+| **stylua** | 0.20.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
 | **subversion** | 1.14.2-6 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
 | **subversion-perl** | 1.14.2-6 | Perl interface to Subversion | https://subversion.apache.org |
