@@ -230,7 +230,7 @@
 | **clinfo** | 3.0.23.01.25 | Print all known information about all available OpenCL platforms and devices in the system | https://github.com/Oblomov/clinfo |
 | **clipp** | 1.2.3-1 | Command line interfaces for modern C++ | https://github.com/muellan/clipp |
 | **cloneit** | 20221024-1 | A cli tool to download specific GitHub directories or files | https://github.com/alok8bb/cloneit |
-| **cloudflared** | 2024.1.3 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
+| **cloudflared** | 2024.1.4 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240116.180559 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.28.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
@@ -2214,7 +2214,7 @@
 | **stdoutisatty** | 1.0 | Patch the isatty() calls for colored output in pipeline | https://github.com/lilydjwg/stdoutisatty |
 | **steghide** | 0.5.1-6 | Embeds a message in a file by replacing some of the least significant bits | http://steghide.sourceforge.net/ |
 | **stemwords** | 2.2.0-1 | A command-line tool which uses libstemmer | https://snowballstem.org/ |
-| **step-cli** | 0.25.1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
+| **step-cli** | 0.25.2 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-5 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-5 | Static libraries for stfl | http://www.clifford.at/stfl |
 | **stoken** | 0.93 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
