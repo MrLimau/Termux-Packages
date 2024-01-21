@@ -401,7 +401,7 @@
 | **fakeroot** | 1.32.2 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.32.2 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.6.2 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.6.3 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -1156,8 +1156,8 @@
 | **libnl-static** | 3.9.0 | Static libraries for libnl | https://github.com/thom311/libnl |
 | **libnova** | 0.16 | A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library | http://libnova.sourceforge.net |
 | **libnova-static** | 0.16 | Static libraries for libnova | http://libnova.sourceforge.net |
-| **libnpth** | 1.6-1 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
-| **libnpth-static** | 1.6-1 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
+| **libnpth** | 1.6-2 | New GNU Portable Threads Library | https://www.gnupg.org/related_software/npth/ |
+| **libnpth-static** | 1.6-2 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.35 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.35 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
 | **libnss** | 3.95 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
@@ -1618,7 +1618,7 @@
 | **minizinc** | 2.8.2 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.8.2 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
-| **mkp224o** | 1.6.1-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
+| **mkp224o** | 1.7.0 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-2 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-0 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 17.0.6 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
