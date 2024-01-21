@@ -1647,7 +1647,7 @@
 | **mp3gain** | 1.6.2 | Analyzes and adjusts mp3 files so that they have the same volume | http://mp3gain.sourceforge.net/ |
 | **mp3splt** | 2.6.2-1 | Utility to split mp3, ogg vorbis and FLAC files without decoding | http://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
-| **mpc** | 0.34-3 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
+| **mpc** | 0.35 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
 | **mpd** | 0.23.15 | Music player daemon | https://www.musicpd.org |
 | **mpd-static** | 0.23.15 | Static libraries for mpd | https://www.musicpd.org |
 | **mpdscribble** | 0.25 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
