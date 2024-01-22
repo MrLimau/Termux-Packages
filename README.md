@@ -351,7 +351,7 @@
 | **dtc** | 1.7.0 | Device Tree Compiler | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dtc-static** | 1.7.0 | Static libraries for dtc | https://git.kernel.org/pub/scm/utils/dtc/dtc |
 | **dte** | 1.11.1-1 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
-| **dua** | 2.27.1 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
+| **dua** | 2.27.2 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.5 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
 | **duckdb** | 0.9.2 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.8.1-3 | Disk usage/free utility | https://github.com/muesli/duf |
@@ -658,8 +658,8 @@
 | **html-xml-utils** | 8.6 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
 | **html2text** | 1:2.2.3 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
 | **htop** | 3.2.2 | Interactive process viewer for Linux | https://htop.dev/ |
-| **htslib** | 1.19 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
-| **htslib-static** | 1.19 | Static libraries for htslib | https://github.com/samtools/htslib |
+| **htslib** | 1.19.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
+| **htslib-static** | 1.19.1 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httping** | 2.9 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
 | **httrack** | 3.49.4 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
 | **httrack-data** | 3.49.4 | Platform-independent data for httrack | http://www.httrack.com |
@@ -689,8 +689,8 @@
 | **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
 | **id3ted** | 1.0-3 | A comand line id3 tag editor | https://muennich.github.io/id3ted/ |
 | **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.1.26 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.1.26 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.1.27 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.1.27 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.9 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
 | **imlib2** | 1.12.1-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
@@ -2432,7 +2432,7 @@
 | **vlc-static** | 3.0.20-3 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.55 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.56 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.275 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
