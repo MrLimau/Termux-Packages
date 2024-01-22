@@ -171,8 +171,8 @@
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.25.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
-| **c-toxcore** | 0.2.18-p20230303-1 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.18-p20230303-1 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.18-p20230303-2 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.18-p20230303-2 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2023.08.22 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2023.08.22 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
@@ -421,7 +421,7 @@
 | **fetchmail** | 6.4.37 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
 | **fetchmailconf** | 6.4.37 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
-| **ffmpeg** | 6.1.1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
+| **ffmpeg** | 6.1.1-1 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffsend** | 0.2.76 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.10-3 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.10-3 | Static libraries for fftw | http://www.fftw.org/ |
@@ -614,7 +614,7 @@
 | **gst-plugins-bad** | 1.22.8-1 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.22.8 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-gl-headers** | 1.22.8 | OpenGL headers for GStreamer plugins | https://gstreamer.freedesktop.org/ |
-| **gst-plugins-good** | 1.22.8 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
+| **gst-plugins-good** | 1.22.8-1 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.22.8 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.22.8-1 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.22.8 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
@@ -1401,8 +1401,8 @@
 | **libvo-amrwbenc-static** | 0.1.3 | Static libraries for libvo-amrwbenc | https://sourceforge.net/projects/opencore-amr |
 | **libvorbis** | 1.3.7-1 | Library for using the Ogg Vorbis compressed audio format | https://xiph.org/vorbis/ |
 | **libvorbis-static** | 1.3.7-1 | Static libraries for libvorbis | https://xiph.org/vorbis/ |
-| **libvpx** | 1:1.13.1 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
-| **libvpx-static** | 1:1.13.1 | Static libraries for libvpx | https://www.webmproject.org |
+| **libvpx** | 1:1.14.0 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
+| **libvpx-static** | 1:1.14.0 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.2 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
 | **libvxl** | 3.5.0-1 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
 | **libwavpack** | 5.6.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
@@ -2319,7 +2319,7 @@
 | **tinygo-common** | 0.30.0 | TinyGo common files | https://tinygo.org |
 | **tinyproxy** | 1.11.1-1 | Light-weight HTTP proxy daemon for POSIX operating systems | https://tinyproxy.github.io/ |
 | **tinyscheme** | 1.42-1 | Very small scheme implementation | http://tinyscheme.sourceforge.net/home.html |
-| **tizonia** | 0.22.0-13 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
+| **tizonia** | 0.22.0-14 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.13 | A windowing toolkit for use with tcl | http://tcl.sourceforge.net/ |
 | **tmate** | 2.4.0-2 | Terminal multiplexer with instant terminal sharing | https://tmate.io |
 | **tmux** | 3.3a-p20230428-0 | Terminal multiplexer | https://tmux.github.io/ |
@@ -2428,8 +2428,8 @@
 | **vitetris** | 0.59.1-2 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.5.0 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.9.0 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.20-3 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
-| **vlc-static** | 3.0.20-3 | Static libraries for vlc | https://www.videolan.org/ |
+| **vlc** | 3.0.20-4 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
 | **vtm** | 0.9.56 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
