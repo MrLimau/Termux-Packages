@@ -531,9 +531,9 @@
 | **gitui** | 0.24.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
 | **gkermit** | 2.01 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.36.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **glib** | 2.78.3-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-bin** | 2.78.3-1 | Programs for the GLib library | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.78.3-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.78.4 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-bin** | 2.78.4 | Programs for the GLib library | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.78.4 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.78.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 0.9.9.8 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
@@ -1680,7 +1680,7 @@
 | **natpmpc** | 20230423 | Portable and fully compliant implementation of NAT-PMP | http://miniupnp.free.fr/libnatpmp.html |
 | **natpmpc-static** | 20230423 | Static libraries for natpmpc | http://miniupnp.free.fr/libnatpmp.html |
 | **navi** | 2.23.0 | An interactive cheatsheet tool for the command-line | https://github.com/denisidoro/navi |
-| **navidrome** | 0.50.2 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
+| **navidrome** | 0.51.0 | 🎧☁️ Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.23.1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.19 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.3 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
@@ -2524,7 +2524,7 @@
 | **yuma123** | 2.13-1 | Provides an opensource YANG API in C | https://yuma123.org/ |
 | **yuma123-static** | 2.13-1 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.1 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
-| **z3** | 4.12.4 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
+| **z3** | 4.12.5 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93 | Static libraries for zbar | https://github.com/mchehab/zbar |
 | **zeronet** | 0.7.1-8 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
