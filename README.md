@@ -1415,7 +1415,7 @@
 | **libwebrtc-audio-processing** | 0.3.1-2 | A library containing the AudioProcessing module from the WebRTC project | https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebrtc-audio-processing-static** | 0.3.1-2 | Static libraries for libwebrtc-audio-processing | https://freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.3.3 | Lightweight C websockets library | https://libwebsockets.org |
-| **libwolfssl** | 5.6.4 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
+| **libwolfssl** | 5.6.6 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwren** | 0.4.0-2 | Small, fast, class-based concurrent scripting language libraries | https://wren.io/ |
 | **libwslay** | 1.1.1 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
 | **libwv** | 1.2.9-3 | A library which allows access to Microsoft Word files | http://wvware.sourceforge.net/ |
@@ -2085,7 +2085,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.75.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240115 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240122 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.75.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.75.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2327,7 +2327,7 @@
 | **tokei** | 13.0.0-alpha.0-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 3.8.1 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 13.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 14.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2411,8 +2411,8 @@
 | **vamp-plugin-sdk-static** | 2.10-1 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.7 | Config manager based on Git | https://github.com/RichiH/vcsh |
-| **vde2** | 2.3.3-1 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
-| **vde2-static** | 2.3.3-1 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
+| **vde2** | 2.3.3-2 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
+| **vde2-static** | 2.3.3-2 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.11.1 | HTTP load testing tool | https://github.com/tsenart/vegeta |
 | **vera** | 1.3.0-5 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 1896 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
