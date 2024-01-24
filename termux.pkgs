@@ -1601,7 +1601,7 @@
 | **mg** | 20230406 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.13 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
 | **microsocks** | 1:1.0.3 | tiny, portable SOCKS5 server with very moderate resource usage | https://github.com/rofl0r/microsocks |
-| **miller** | 6.10.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
+| **miller** | 6.11.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
 | **mime-support** | 1:2.1.53 | Modern mime.types file from mailcap | https://pagure.io/mailcap |
 | **mimetic** | 0.9.8-1 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-1 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
@@ -2428,7 +2428,7 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.56 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.57 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
 | **vulkan-extension-layer** | 1.3.275 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
