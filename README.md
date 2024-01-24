@@ -1026,7 +1026,7 @@
 | **libimobiledevice-glue-static** | 1.0.0 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
 | **libimobiledevice-static** | 1.3.0-p20230430-0 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
 | **libimtui** | 1.0.5-1 | An immediate mode text-based user interface library | https://github.com/ggerganov/imtui |
-| **libinih** | 57 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
+| **libinih** | 58 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
 | **libiniparser** | 4.1-1 | Offers parsing of ini files from the C level | https://github.com/ndevilla/iniparser |
 | **libiodbc** | 3.52.16 | Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems | https://www.iodbc.org/ |
 | **libiodbc-static** | 3.52.16 | Static libraries for libiodbc | https://www.iodbc.org/ |
@@ -1888,7 +1888,7 @@
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.21.0 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.21.1 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 3.3 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 3.3 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
@@ -2019,7 +2019,7 @@
 | **ravencoin** | 4.6.1-4 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
 | **ravencoin-static** | 4.6.1-4 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.9.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
-| **rclone** | 1.65.1-1 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.65.2 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rcshell** | 1.7.4-4 | An alternative implementation of the plan 9 rc shell | http://tobold.org/article/rc |
