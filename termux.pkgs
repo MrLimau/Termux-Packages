@@ -1028,9 +1028,9 @@
 | **libjansson-static** | 2.14 | Static libraries for libjansson | http://www.digip.org/jansson/ |
 | **libjasper** | 4.1.2 | Library for manipulating JPEG-2000 files | http://www.ece.uvic.ca/~frodo/jasper/ |
 | **libjasper-utils** | 4.1.2 | JPEG-2000 utilities | http://www.ece.uvic.ca/~frodo/jasper/ |
-| **libjpeg-turbo** | 3.0.1 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-progs** | 3.0.1 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
-| **libjpeg-turbo-static** | 3.0.1 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo** | 3.0.2 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-progs** | 3.0.2 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
+| **libjpeg-turbo-static** | 3.0.2 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
 | **libjxl** | 0.9.1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
 | **libjxl-progs** | 0.9.1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkiwix** | 13.0.0 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
@@ -2345,7 +2345,7 @@
 | **typst** | 0.10.0 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **uchardet** | 0.0.8 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
 | **udftools** | 2.3 | Linux tools for UDF filesystems and DVD/CD-R(W) drives | https://github.com/pali/udftools |
-| **uftrace** | 0.15.1-1 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
+| **uftrace** | 0.15.2 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugit** | 5.7 | ugit helps you undo your last git command with grace. Your damage control git buddy | https://github.com/Bhupesh-V/ugit |
 | **ugrep** | 4.5.2 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.7-6 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
