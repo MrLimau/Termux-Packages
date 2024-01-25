@@ -2151,7 +2151,7 @@
 | **softether-vpn** | 5.02.5180-4 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.02.5180-4 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.7.0-3 | A user-friendly IRC bouncer | https://git.sr.ht/~emersion/soju |
-| **solidity** | 0.8.23 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
+| **solidity** | 0.8.24 | An Ethereum smart contract-oriented language | https://solidity.readthedocs.io |
 | **sops** | 3.8.1 | Simple and flexible tool for managing secrets | https://github.com/mozilla/sops |
 | **sord** | 0.16.16 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sox** | 14.4.2-25 | Command line utility for converting between and applying effects to various audio files formats | http://sox.sourceforge.net/ |
@@ -2308,7 +2308,7 @@
 | **tokei** | 13.0.0-alpha.0-0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2022.12.27-3 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 3.8.1 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 14.0.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 14.0.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
