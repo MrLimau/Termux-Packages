@@ -34,8 +34,6 @@
 | **alist** | 3.30.0 | A file list program that supports multiple storage | https://alist.nn.ci |
 | **alpine** | 2.26 | Fast, easy to use email client | http://alpine.x10host.com/ |
 | **amber** | 0.6.0 | A code search / replace tool | https://github.com/dalance/amber |
-| **ambr** | 0.5.9 | amber replace | https://github.com/dalance/amber |
-| **ambs** | 0.5.9 | amber search | https://github.com/dalance/amber |
 | **amfora** | 1.9.2-3 | Aims to be the best looking Gemini client | https://github.com/makeworld-the-better-one/amfora |
 | **anacron** | 2.3 | A periodic command scheduler | http://anacron.sourceforge.net/ |
 | **android-tools** | 34.0.4-4 | Android platform tools | https://developer.android.com/ |
@@ -393,7 +391,6 @@
 | **espeak-static** | 1.51-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 6.2.8-3 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **exa** | 0.10.1-7 | A modern replacement for ls | https://the.exa.website |
 | **exercism** | 3.2.0-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exhale** | 1.2.0.1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
 | **exiftool** | 12.74 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
@@ -459,8 +456,6 @@
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.53.2 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
-| **frpc** | 0.51.3 | frp client | https://gofrp.org/doc |
-| **frps** | 0.51.3 | frp server | https://gofrp.org/doc |
 | **fselect** | 0.8.5 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
 | **fsmon** | 1.8.5 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
@@ -751,11 +746,8 @@
 | **kak-lsp** | 15.0.1 | Language Server Protocol Client for the Kakoune editor | https://github.com/kak-lsp/kak-lsp |
 | **kakoune** | 2023.08.05-1 | Code editor heavily inspired by Vim | https://github.com/mawww/kakoune |
 | **kcptun** | 20240107 | A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC | https://github.com/xtaci/kcptun |
-| **kcptun-client** | 20230811 | kcptun client | https://github.com/xtaci/kcptun |
-| **kcptun-server** | 20230811 | kcptun server | https://github.com/xtaci/kcptun |
 | **keybase** | 6.2.4 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 2.8.5-1 | keychain ssh-agent front-end | https://www.funtoo.org/Keychain |
-| **keystone** | 0.9.2-3 | Keystone is a lightweight multi-platform, multi-architecture assembler framework | https://www.keystone-engine.org/ |
 | **kibi** | 0.2.2 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
 | **kiwix-tools** | 3.6.0 | A collection of Kiwix related command line tools | https://github.com/kiwix/kiwix-tools |
 | **knockd** | 0.8-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
@@ -794,7 +786,6 @@
 | **libacl** | 2.3.1 | Access control list shared library | http://savannah.nongnu.org/projects/acl |
 | **libacl-static** | 2.3.1 | Static libraries for libacl | http://savannah.nongnu.org/projects/acl |
 | **libaml** | 0.3.0 | Andri's Main Loop library | https://github.com/any1/aml |
-| **libandroid** | 25c-1 | Stub libandroid.so needed on Termux Docker | https://android.googlesource.com/platform/frameworks/base/+/master/native/android |
 | **libandroid-complex-math** | 0.1 | A shared library providing libm complex math functions | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-complex-math-static** | 0.1 | Static libraries for libandroid-complex-math | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libm/upstream-netbsd/lib/libm/complex |
 | **libandroid-execinfo** | 0.1-1 | Shared library for the backtrace system function | https://man7.org/linux/man-pages/man3/backtrace.3.html |
@@ -1276,7 +1267,6 @@
 | **libsigsegv-static** | 2.14 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
 | **libsixel** | 1.10.3-2 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libsixel-static** | 1.10.3-2 | Static libraries for libsixel | https://saitoha.github.io/libsixel/ |
-| **libsled** | 0.34.7 | A lightweight pure-rust high-performance transactional embedded database | https://github.com/spacejam/sled |
 | **libslirp** | 4.7.0 | A general purpose TCP-IP emulator. | https://gitlab.freedesktop.org/slirp/libslirp |
 | **libsm** | 1.2.4-1 | X11 Session Management library | https://xorg.freedesktop.org/ |
 | **libsm-static** | 1.2.4-1 | Static libraries for libsm | https://xorg.freedesktop.org/ |
@@ -1591,7 +1581,6 @@
 | **mdbtools-static** | 1.0.0-2 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
 | **mdns-scan** | 0.5-2 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
 | **mdp** | 1.0.15-2 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
-| **media-types** | 10.1.0-1 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 23.11 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **megacmd** | 1.6.3-1 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.1.20230212 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://megatools.megous.com/ |
@@ -1606,7 +1595,6 @@
 | **micro** | 2.0.13 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
 | **microsocks** | 1:1.0.3 | tiny, portable SOCKS5 server with very moderate resource usage | https://github.com/rofl0r/microsocks |
 | **miller** | 6.11.0 | Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON | https://miller.readthedocs.io/ |
-| **mime-support** | 1:2.1.53 | Modern mime.types file from mailcap | https://pagure.io/mailcap |
 | **mimetic** | 0.9.8-1 | A C++ Email library (MIME) | https://www.codesink.org/mimetic_mime_library.html |
 | **mimetic-static** | 0.9.8-1 | Static libraries for mimetic | https://www.codesink.org/mimetic_mime_library.html |
 | **minesweeper** | 0.3.1-3 | A simple terminal-based implementation of Minesweeper | https://github.com/benhsm/minesweeper |
@@ -1925,7 +1913,6 @@
 | **prover9** | 2009-11A-0 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **proxychains-ng** | 4.16 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.6-2 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
-| **psutils** | 2.10-2 | A set of postscript utilities | https://github.com/rrthomas/psutils |
 | **ptex** | 2.4.2 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.4.2 | Static libraries for ptex | https://github.com/wdas/ptex |
 | **ptunnel-ng** | 1.42 | Tunnel TCP connections through ICMP. | https://github.com/lnslbrty/ptunnel-ng |
@@ -2092,7 +2079,6 @@
 | **rust-std-aarch64-linux-android** | 1.75.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
 | **rust-std-armv7-linux-androideabi** | 1.75.0 | Rust std for target armv7-linux-androideabi | https://www.rust-lang.org/ |
 | **rust-std-i686-linux-android** | 1.75.0 | Rust std for target i686-linux-android | https://www.rust-lang.org/ |
-| **rust-std-wasm32** | 1.74.1 | Rust std for target wasm32 | https://www.rust-lang.org/ |
 | **rust-std-wasm32-unknown-unknown** | 1.75.0 | Rust std for target wasm32-unknown-unknown | https://www.rust-lang.org/ |
 | **rust-std-wasm32-wasi** | 1.75.0 | Rust std for target wasm32-wasi | https://www.rust-lang.org/ |
 | **rust-std-x86-64-linux-android** | 1.75.0 | Rust std for target x86_64-linux-android | https://www.rust-lang.org/ |
@@ -2113,7 +2099,6 @@
 | **sccache** | 0.7.6 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.4.3 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.2-2 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
-| **scheme48** | 1.9.2 | An implementation of the Scheme programming language | https://www.s48.org/ |
 | **screen** | 4.9.1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
 | **screenfetch** | 3.9.1-1 | Bash Screenshot Information Tool | https://github.com/KittyKatt/screenFetch |
 | **scrub** | 2.6.1-1 | Iteratively writes patterns on files or disk devices to make retreiving the data more difficult | https://github.com/chaos/scrub |
@@ -2448,7 +2433,6 @@
 | **wabt** | 1.0.34 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
 | **wakatime-cli** | 1.88.7 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.7.0 | A terminal file manager | https://github.com/antonmedv/walk |
-| **wapm** | 0.5.9 | WebAssembly Package Manager | https://github.com/wasmerio/wapm-cli |
 | **wasi-libc** | 20 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasmedge** | 0.13.5 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **watchexec** | 1.22.3 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
