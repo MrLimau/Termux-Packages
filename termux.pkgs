@@ -206,7 +206,7 @@
 | **chafa-static** | 1.14.0 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.45.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.46.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.3.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.3.0 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.4 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -760,7 +760,7 @@
 | **lazyread** | 2.0-1 | An auto-scroller, pager, and e-book reader all in one | http://lazyread.sourceforge.net/ |
 | **lcal** | 2.1.0 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
-| **ldd** | 0.2 | Fake ldd command | https://github.com/termux/termux-packages |
+| **ldd** | 0.3 | Fake ldd command | https://github.com/termux/termux-packages |
 | **ldns** | 1.8.3-2 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.3-2 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.3.2-2 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
@@ -1341,8 +1341,8 @@
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtreesitter** | 0.20.8 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
-| **libtreesitter-static** | 0.20.8 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter** | 0.20.9 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter-static** | 0.20.9 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
 | **libtsduck** | 3.36.3528 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.36.3528 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
