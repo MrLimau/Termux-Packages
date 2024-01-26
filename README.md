@@ -167,7 +167,7 @@
 | **byacc** | 20230521 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
 | **byobu** | 5.133 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | http://byobu.co/ |
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
-| **c-ares** | 1.25.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
+| **c-ares** | 1.26.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20230303-2 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20230303-2 | Static libraries for c-toxcore | https://tox.chat |
@@ -1071,8 +1071,8 @@
 | **libluajit** | 1:2.1.1703358377 | Just-In-Time Compiler for Lua | https://luajit.org/ |
 | **libluajit-static** | 1:2.1.1703358377 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
-| **liblzma** | 5.4.5 | XZ-format compression library | https://tukaani.org/xz/ |
-| **liblzma-static** | 5.4.5 | Static libraries for liblzma | https://tukaani.org/xz/ |
+| **liblzma** | 5.4.6 | XZ-format compression library | https://tukaani.org/xz/ |
+| **liblzma-static** | 5.4.6 | Static libraries for liblzma | https://tukaani.org/xz/ |
 | **liblzo** | 2.10-3 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
 | **liblzo-static** | 2.10-3 | Static libraries for liblzo | http://www.oberhumer.com/opensource/lzo |
 | **libmaa** | 1.4.7 | Provides many low-level data structures which are helpful for writing compilers | https://sourceforge.net/projects/dict/ |
@@ -2491,7 +2491,7 @@
 | **xvidcore-static** | 1.3.7 | Static libraries for xvidcore | https://www.xvid.com/ |
 | **xxhash** | 0.8.2 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.2 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
-| **xz-utils** | 5.4.5 | XZ-format compression tools | https://tukaani.org/xz/ |
+| **xz-utils** | 5.4.6 | XZ-format compression tools | https://tukaani.org/xz/ |
 | **yadm** | 3.2.2 | Yet Another Dotfiles Manager | https://github.com/TheLocehiliosan/yadm |
 | **yajl** | 2.1.0-7 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-7 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
