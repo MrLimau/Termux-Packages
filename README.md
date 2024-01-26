@@ -1557,8 +1557,8 @@
 | **maven** | 3.9.6 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13 | Mazes in your terminal | https://github.com/Canop/mazter |
-| **mbedtls** | 3.5.1 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
-| **mbedtls-static** | 3.5.1 | Static libraries for mbedtls | https://tls.mbed.org/ |
+| **mbedtls** | 3.5.2 | Light-weight cryptographic and SSL/TLS library | https://tls.mbed.org/ |
+| **mbedtls-static** | 3.5.2 | Static libraries for mbedtls | https://tls.mbed.org/ |
 | **mc** | 4.8.30 | Midnight Commander - a powerful file manager | https://www.midnight-commander.org/ |
 | **mcfly** | 0.8.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
 | **mdbook** | 0.4.36 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
