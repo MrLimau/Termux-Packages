@@ -1,5 +1,5 @@
 ```mathematica
-564K └─┬ main
-280K   ├── termux.pkgs
-280K   └── README.md
+556K └─┬ main
+276K   ├── termux.pkgs
+276K   └── README.md
 ```
