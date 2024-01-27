@@ -1173,7 +1173,7 @@
 | **libopus-static** | 1.4 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-3 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.35 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.36 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosmium** | 2.20.0 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
@@ -2413,10 +2413,10 @@
 | **vlc-static** | 3.0.20-4 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-2 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.2-2 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
-| **vtm** | 0.9.59 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
+| **vtm** | 0.9.60 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://vtm.netxs.online/ |
 | **vttest** | 20231230 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vtutils** | 0.5-4 | Utilities for testing and working with virtual terminals | https://github.com/fornwall/vtutils |
-| **vulkan-extension-layer** | 1.3.275 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
+| **vulkan-extension-layer** | 1.3.276 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
 | **vulkan-headers** | 1.3.276 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-loader** | 0.0.2 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 26b | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
