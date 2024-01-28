@@ -408,7 +408,7 @@
 | **fdkaac** | 1.0.5 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
 | **fdroidcl** | 0.7.0-2 | F-Droid client | https://github.com/mvdan/fdroidcl |
-| **fdupes** | 2.3.0 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
+| **fdupes** | 2.3.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.3.0 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.10.1 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
 | **fetchmail** | 6.4.37 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
@@ -2513,8 +2513,8 @@
 | **zile** | 2.6.2 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
 | **zip** | 3.0-5 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **zipios** | 2.3.2 | A small C++ library for reading and writing zip files | https://zipios.sourceforge.io/ |
-| **zlib** | 1.3-3 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
-| **zlib-static** | 1.3-3 | Static libraries for zlib | https://www.zlib.net/ |
+| **zlib** | 1.3.1 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
+| **zlib-static** | 1.3.1 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.11.0 | Zig language server | https://github.com/zigtools/zls |
 | **znc** | 1.8.2-6 | An advanced IRC bouncer | https://znc.in/ |
 | **zopfli** | 1.0.3-3 | New zlib compatible compressor tools | https://github.com/google/zopfli |
