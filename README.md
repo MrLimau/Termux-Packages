@@ -233,8 +233,8 @@
 | **clvk** | 0.0.20240116.180559 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
 | **cmake** | 3.28.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
 | **cmake-curses-gui** | 3.28.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
-| **cmark** | 0.30.3 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
-| **cmark-static** | 0.30.3 | Static libraries for cmark | https://github.com/commonmark/cmark |
+| **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
+| **cmark-static** | 0.31.0 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 1.1.7 | cmocka is an unit testing framework for C | https://cmocka.org/ |
 | **cmus** | 2.10.0-7 | Small, fast and powerful console music player | https://cmus.github.io/ |
@@ -306,7 +306,7 @@
 | **dialog** | 1.3-20230209-0 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20230209-0 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
-| **diffstat** | 1.65-1 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
+| **diffstat** | 1.66 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
 | **difftastic** | 0.54.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.10 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
 | **dirb** | 2.22-4 | Web Directory Fuzzer | http://dirb.sourceforge.net/ |
@@ -1391,8 +1391,8 @@
 | **libvo-amrwbenc-static** | 0.1.3 | Static libraries for libvo-amrwbenc | https://sourceforge.net/projects/opencore-amr |
 | **libvorbis** | 1.3.7-1 | Library for using the Ogg Vorbis compressed audio format | https://xiph.org/vorbis/ |
 | **libvorbis-static** | 1.3.7-1 | Static libraries for libvorbis | https://xiph.org/vorbis/ |
-| **libvpx** | 1:1.14.0 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
-| **libvpx-static** | 1:1.14.0 | Static libraries for libvpx | https://www.webmproject.org |
+| **libvpx** | 1:1.14.0-1 | VP8 & VP9 Codec SDK | https://www.webmproject.org |
+| **libvpx-static** | 1:1.14.0-1 | Static libraries for libvpx | https://www.webmproject.org |
 | **libvterm** | 1:0.3.2 | Terminal emulator library | https://www.leonerd.org.uk/code/libvterm/ |
 | **libvxl** | 3.5.0-1 | A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding | https://vxl.github.io |
 | **libwavpack** | 5.6.0 | A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode | https://www.wavpack.com/ |
@@ -2474,7 +2474,7 @@
 | **xapian-tools** | 1.4.24 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.16.0 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-1 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
-| **xh** | 0.20.1 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
+| **xh** | 0.21.0 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
 | **xls2csv** | 1.6.2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **xmake** | 2.8.6 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.3 | XML Security Library | https://www.aleksey.com/xmlsec/ |
