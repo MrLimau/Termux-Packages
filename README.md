@@ -1662,7 +1662,7 @@
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
 | **n2n** | 3.1.1 | A light VPN software | https://github.com/ntop/n2n |
-| **nala** | 0.15.0 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
+| **nala** | 0.15.1 | Commandline frontend for the apt package manager | https://gitlab.com/volian/nala |
 | **nali** | 0.8.1 | An offline tool for querying IP geographic information and CDN provider | https://github.com/zu1k/nali |
 | **nano** | 7.2 | Small, free and friendly text editor | https://www.nano-editor.org/ |
 | **nasm** | 2.16.01 | A cross-platform x86 assembler with an Intel-like syntax | https://nasm.us |
@@ -2206,9 +2206,9 @@
 | **stoken** | 0.93 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-2 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.94.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.95.1 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.3.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
-| **strace** | 6.6 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
+| **strace** | 6.7 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
 | **stunnel** | 5.71 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.71 | Static libraries for stunnel | https://www.stunnel.org/ |
