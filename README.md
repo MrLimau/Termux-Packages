@@ -171,8 +171,8 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.18-p20230303-2 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.18-p20230303-2 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2023.08.22 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2023.08.22 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2023.12.12 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2023.12.12 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.24-1 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
@@ -2072,7 +2072,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.75.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240122 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240129 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.75.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.75.0 | Rust source code files | https://www.rust-lang.org/ |
