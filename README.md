@@ -231,8 +231,8 @@
 | **cloudflared** | 2024.1.5 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.2-3 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20240129.095441 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 3.28.1 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 3.28.1 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 3.28.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 3.28.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.0 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.0 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -364,7 +364,7 @@
 | **e2tools** | 0.1.0 | mtools analogue for ext2/3 filesystems | https://github.com/e2tools/e2tools |
 | **ecj** | 1:4.12-5 | Eclipse Compiler for Java | https://www.eclipse.org/jdt/core/ |
 | **ed** | 1.19 | Classic UNIX line editor | https://www.gnu.org/software/ed/ |
-| **edbrowse** | 3.8.8 | Line based editor, browser, and mail client | https://edbrowse.org/ |
+| **edbrowse** | 3.8.9 | Line based editor, browser, and mail client | https://edbrowse.org/ |
 | **eigen** | 3.4.0 | Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms | http://eigen.tuxfamily.org |
 | **eja** | 13.11.25-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.6 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
@@ -1048,8 +1048,8 @@
 | **libliquid-dsp-static** | 1.6.0 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
 | **libllvm** | 17.0.6 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
 | **libllvm-static** | 17.0.6 | Static libraries for libllvm | https://clang.llvm.org/ |
-| **liblmdb** | 0.9.31 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
-| **liblmdb-static** | 0.9.31 | Static libraries for liblmdb | https://symas.com/lmdb/ |
+| **liblmdb** | 0.9.32 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
+| **liblmdb-static** | 0.9.32 | Static libraries for liblmdb | https://symas.com/lmdb/ |
 | **liblo** | 0.31 | A lightweight library that provides an easy to use implementation of the OSC protocol | http://liblo.sourceforge.net/ |
 | **liblo-static** | 0.31 | Static libraries for liblo | http://liblo.sourceforge.net/ |
 | **liblog4c** | 1.2.4-1 | A C library for flexible logging to files, syslog and other destinations | https://log4c.sourceforge.net/ |
@@ -1319,7 +1319,7 @@
 | **libtbb** | 2021.11.0 | oneAPI Threading Building Blocks | https://oneapi-src.github.io/oneTBB/ |
 | **libtd** | 1.8.0 | Library for building Telegram clients | https://core.telegram.org/tdlib/ |
 | **libtd-static** | 1.8.0 | Static libraries for libtd | https://core.telegram.org/tdlib/ |
-| **libtdb** | 1.4.9 | A trivial database system | https://tdb.samba.org/ |
+| **libtdb** | 1.4.10 | A trivial database system | https://tdb.samba.org/ |
 | **libtermkey** | 0.22-3 | Library for processing of keyboard entry for terminal-based programs | http://www.leonerd.org.uk/code/libtermkey/ |
 | **libtheora** | 1.1.1-1 | An open video codec developed by the Xiph.org | https://www.theora.org/ |
 | **libtheora-static** | 1.1.1-1 | Static libraries for libtheora | https://www.theora.org/ |
@@ -2068,7 +2068,7 @@
 | **rubiks-cube** | 1.2 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 3.2.2 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 3.2.2 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.1.14 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.1.15 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-3 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2249,7 +2249,7 @@
 | **tcl** | 8.6.13 | Powerful but easy to learn dynamic programming language | https://www.tcl.tk/ |
 | **tcllib** | 1.21 | Tcl Standard Library | https://core.tcl-lang.org/tcllib/ |
 | **tcsh** | 6.24.10 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
-| **tdb-tools** | 1.4.9 | Tools for TDB | https://tdb.samba.org/ |
+| **tdb-tools** | 1.4.10 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.14.1 | Telegram downloader written in GO | https://github.com/iyear/tdl |
 | **tea** | 0.9.2 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.6.1 | A very fast implementation of tldr in Rust | https://dbrgn.github.io/tealdeer/ |
