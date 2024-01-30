@@ -134,7 +134,7 @@
 | **blk-utils** | 2.39.3-3 | Utilities for handling block device attributes | https://en.wikipedia.org/wiki/Util-linux |
 | **blogc** | 0.20.1 | A blog compiler | https://blogc.rgm.io/ |
 | **bmon** | 4.0-3 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 7.24.2 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 7.24.3 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.0-2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-2 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1.83.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
@@ -398,7 +398,7 @@
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 1.0.2 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.7.0 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.7.1 | A neofetch-like tool for fetching system information and displaying them in a pretty way | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **fclones** | 0.34.0 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
@@ -2335,7 +2335,7 @@
 | **ttyc** | 0.4-3 | ttyd protocol client | https://github.com/Depau/ttyc |
 | **ttyd** | 1.7.4-1 | Command-line tool for sharing terminal over the web | https://tsl0922.github.io/ttyd/ |
 | **ttyper** | 1.4.0 | Terminal-based typing test | https://github.com/max-niederman/ttyper |
-| **ttyplot** | 1.6.1 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
+| **ttyplot** | 1.6.2 | A realtime plotting utility for terminal with data input from stdin | https://github.com/tenox7/ttyplot |
 | **ttyrec** | 1.0.8-7 | Terminal recorder and player | http://0xcc.net/ttyrec/ |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **tut** | 2.0.1-2 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
