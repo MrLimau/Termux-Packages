@@ -17,7 +17,7 @@
 | **ack-grep** | 3.7.0 | Tool like grep optimized for programmers | https://beyondgrep.com/ |
 | **acr** | 2.1.2 | A fully compatible autoconf replacement | https://github.com/radare/acr |
 | **adms** | 2.3.7 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
-| **aerc** | 0.16.0 | A pretty good email client | https://aerc-mail.org/ |
+| **aerc** | 0.17.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.4 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
 | **age** | 1:1.1.1-2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.4.3 | asciinema gif generator | https://github.com/asciinema/agg |
@@ -451,14 +451,14 @@
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.54-1 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.53.2 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
+| **frp** | 0.54.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://gofrp.org/doc |
 | **fselect** | 0.8.5 | Find files with SQL-like queries | https://github.com/jhspetersson/fselect |
 | **fsmon** | 1.8.5 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fte** | 20110708-1 | A free text editor for developers | http://fte.sourceforge.net/ |
 | **fwknop** | 2.6.10-5 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.10-5 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
 | **fx** | 31.0.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
-| **fzf** | 0.46.0 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
+| **fzf** | 0.46.1 | Command-line fuzzy finder | https://github.com/junegunn/fzf |
 | **fzy** | 1.0 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
 | **g-ir-scanner** | 1.78.1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.3-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
@@ -1301,8 +1301,8 @@
 | **libssh2-static** | 1.11.0 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 2.2.0-1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
 | **libstemmer-static** | 2.2.0-1 | Static libraries for libstemmer | https://snowballstem.org/ |
-| **libstrophe** | 0.12.3 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
-| **libstrophe-static** | 0.12.3 | Static libraries for libstrophe | https://strophe.im/libstrophe |
+| **libstrophe** | 0.13.0 | libstrophe is a minimal XMPP library written in C | https://strophe.im/libstrophe |
+| **libstrophe-static** | 0.13.0 | Static libraries for libstrophe | https://strophe.im/libstrophe |
 | **libt3config** | 1.0.0 | A library for reading and writing configuration files | https://os.ghalkes.nl/t3/libt3config.html |
 | **libt3highlight** | 0.5.0 | A library for syntax highlighting different types of text files | https://os.ghalkes.nl/t3/libt3highlight.html |
 | **libt3key** | 0.2.10 | A library and database with escape sequence to key symbol mappings | https://os.ghalkes.nl/t3/libt3key.html |
@@ -1604,8 +1604,8 @@
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.2.5 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
-| **minizinc** | 2.8.2 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
-| **minizinc-static** | 2.8.2 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
+| **minizinc** | 2.8.3 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
+| **minizinc-static** | 2.8.3 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
 | **mkbootimg** | 2022.11.09 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-2 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
