@@ -520,7 +520,7 @@
 | **git-lfs** | 3.4.1 | Git extension for versioning large files | https://git-lfs.github.com/ |
 | **git-sizer** | 1.5.0-4 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.43.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
-| **gitea** | 1.21.4 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.21.5 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.33.0 | Rust implementation of Git | https://github.com/Byron/gitoxide |
 | **gitui** | 0.24.3 | Blazing fast terminal-ui for git written in rust | https://github.com/extrawurst/gitui |
@@ -630,7 +630,7 @@
 | **hash-slinger** | 3.3 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
 | **hcl** | 2.19.1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.41.1 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.42.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 23.10 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 23.10 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.1-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
