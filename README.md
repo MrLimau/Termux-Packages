@@ -320,7 +320,7 @@
 | **djvulibre-static** | 3.5.28-6 | Static libraries for djvulibre | https://djvu.sourceforge.net/ |
 | **dmagnetic** | 0.37 | Interpreter for classic text adventure games and interactive fiction | https://dettus.net/dMagnetic |
 | **dmtx-utils** | 0.7.6 | A command line interface for libdmtx | https://github.com/dmtx/dmtx-utils |
-| **dnote** | 1:0.15.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
+| **dnote** | 1:0.15.1 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 2.1.1-2 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-1 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
 | **dnslookup** | 1.10.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
@@ -2138,7 +2138,7 @@
 | **simh** | 1:3.12.4 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-1 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **simuwaerm** | 0.02 | A simple heat transfer simulator in pure Rust | https://github.com/file-acomplaint/simuwaerm |
-| **sing-box** | 1.8.4 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.8.5 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skate** | 0.2.2-1 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.02-2 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
