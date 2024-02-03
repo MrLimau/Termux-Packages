@@ -169,8 +169,8 @@
 | **bzip2** | 1.0.8-6 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.26.0 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.haxx.se |
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
-| **c-toxcore** | 0.2.18-p20230303-2 | Backend library for the Tox protocol | https://tox.chat |
-| **c-toxcore-static** | 0.2.18-p20230303-2 | Static libraries for c-toxcore | https://tox.chat |
+| **c-toxcore** | 0.2.18-p20240129-0 | Backend library for the Tox protocol | https://tox.chat |
+| **c-toxcore-static** | 0.2.18-p20240129-0 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2023.12.12 | Common CA certificates | https://curl.se/docs/caextract.html |
 | **ca-certificates-java** | 1:2023.12.12 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.8.1.0 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
@@ -1637,7 +1637,7 @@
 | **mp3splt** | 2.6.2-1 | Utility to split mp3, ogg vorbis and FLAC files without decoding | http://mp3splt.sourceforge.net |
 | **mp3wrap** | 0.5 | A command-line utility that wraps quickly two or more mp3 files in one single large playable mp3 | https://mp3wrap.sourceforge.net/ |
 | **mpc** | 0.35 | Minimalist command line interface for MPD | https://www.musicpd.org/clients/mpc/ |
-| **mpd** | 0.23.15 | Music player daemon | https://www.musicpd.org |
+| **mpd** | 0.23.15-1 | Music player daemon | https://www.musicpd.org |
 | **mpd-static** | 0.23.15 | Static libraries for mpd | https://www.musicpd.org |
 | **mpdscribble** | 0.25 | A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler | https://www.musicpd.org/clients/mpdscribble/ |
 | **mpg123** | 1.32.4 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
@@ -1690,7 +1690,7 @@
 | **ne** | 3.3.3 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2022.07.21 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
-| **neomutt** | 20231221 | A version of mutt with added features | https://neomutt.org/ |
+| **neomutt** | 20240201 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.9.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **nerdfix** | 0.4.0 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.4 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
@@ -1952,8 +1952,8 @@
 | **python-static** | 3.11.6-1 | Static libraries for python | https://python.org/ |
 | **python-tkinter** | 3.11.6-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.1.2 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.1.2 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torch** | 2.1.2-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.1.2-1 | Static libraries for python-torch | https://pytorch.org/ |
 | **python-torchaudio** | 2.0.1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchvision** | 0.15.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.16.0 | The xcbgen Python module | https://xcb.freedesktop.org/ |
@@ -2022,9 +2022,9 @@
 | **readline-static** | 8.2.1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.37.0 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-python** | 1.37.0 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-static** | 1.37.0 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll** | 1.37.2 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-python** | 1.37.2 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-static** | 1.37.2 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2318,7 +2318,7 @@
 | **tor** | 0.4.8.10 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.4.0 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.4.0 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
-| **toxic** | 0.13.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
+| **toxic** | 0.14.1 | A command line client for Tox | https://github.com/JFreegman/toxic |
 | **tracepath** | 20240117 | Tool to trace the network path to a remote host | https://github.com/iputils/iputils |
 | **traceroute** | 2.1.3 | A new modern implementation of traceroute(8) utility for Linux systems | https://traceroute.sourceforge.net/ |
 | **translate-shell** | 0.9.7.1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
