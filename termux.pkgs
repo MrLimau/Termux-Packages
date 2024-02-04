@@ -808,7 +808,7 @@
 | **libapt-pkg-perl** | 0.1.40-9 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.7.2 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.7.2 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 12.0.1-5 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 15.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.190 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.190 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1943,7 +1943,7 @@
 | **python-numpy-static** | 1.26.3 | Static libraries for python-numpy | https://numpy.org/ |
 | **python-pillow** | 10.2.0-1 | Python Imaging Library | https://python-pillow.org/ |
 | **python-pip** | 24.0-1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
-| **python-pyarrow** | 12.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 15.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-sabyenc3** | 8.1.0 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-static** | 3.11.6-1 | Static libraries for python | https://python.org/ |
 | **python-tkinter** | 3.11.6-1 | Tkinter support for Python 3 | https://python.org/ |
@@ -2255,7 +2255,7 @@
 | **tectonic** | 0.14.1-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20231228 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **telegram-cli** | 1:1.4.1-6 | Telegram messenger CLI | https://github.com/vysheng/tg |
-| **teleport-tsh** | 14.3.3 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **teleport-tsh** | 15.0.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
 | **tenki-php** | 2022.05.26 | A simple PHP application for logging current weather conditions, notes, and waypoints | https://github.com/dmpop/tenki |
 | **tere** | 1.5.1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-4 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
