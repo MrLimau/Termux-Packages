@@ -2076,7 +2076,7 @@
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.75.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
 | **rust-analyzer** | 20240129 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
-| **rust-bindgen** | 0.69.3 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
+| **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.75.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.75.0 | Rust source code files | https://www.rust-lang.org/ |
 | **rust-std-aarch64-linux-android** | 1.75.0 | Rust std for target aarch64-linux-android | https://www.rust-lang.org/ |
