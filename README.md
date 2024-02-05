@@ -603,7 +603,7 @@
 | **groovy** | 4.0.16-3 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grv** | 0.3.2-3 | A terminal based interface for viewing Git repositories | https://github.com/rgburke/grv |
 | **gsasl** | 2.2.0 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
-| **gsf-tools** | 1.14.51 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **gsf-tools** | 1.14.52 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.7.1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.7.1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.22.9 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
@@ -985,8 +985,8 @@
 | **libgrpc** | 1.61.0-pre3-0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.0 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.0 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
-| **libgsf** | 1.14.51 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgsf-static** | 1.14.51 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf** | 1.14.52 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf-static** | 1.14.52 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgxps** | 0.3.2-2 | handling and rendering XPS documents | https://wiki.gnome.org/libgxps |
 | **libhdf5** | 1.14.3 | Hierarchical Data Format 5 (HDF5) | https://portal.hdfgroup.org/display/support |
 | **libhdf5-static** | 1.14.3 | Static libraries for libhdf5 | https://portal.hdfgroup.org/display/support |
@@ -1604,7 +1604,7 @@
 | **minidlna** | 1.3.3-1 | A server software with the aim of being fully compliant with DLNA/UPnP-AV clients | https://sourceforge.net/projects/minidlna/ |
 | **miniflux** | 2.0.51 | A minimalist and opinionated feed reader | https://miniflux.app/ |
 | **minimodem** | 0.24-1-0 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
-| **minio** | 2024.01.31.20.20.33 | Multi-Cloud Object Storage | https://min.io/ |
+| **minio** | 2024.02.04.22.36.13 | Multi-Cloud Object Storage | https://min.io/ |
 | **miniserve** | 0.26.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.11-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
 | **miniupnpc** | 2.2.5 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
@@ -2075,7 +2075,7 @@
 | **runit-static** | 2.1.2-3 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.5.4 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.75.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20240129 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
+| **rust-analyzer** | 20240205 | A Rust compiler front-end for IDEs | https://github.com/rust-lang/rust-analyzer |
 | **rust-bindgen** | 0.69.4 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.75.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.75.0 | Rust source code files | https://www.rust-lang.org/ |
