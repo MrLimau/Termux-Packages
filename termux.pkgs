@@ -1523,7 +1523,7 @@
 | **luv** | 1.47.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
 | **lv2** | 1.18.10-3 | A plugin standard for audio systems | https://lv2plug.in/ |
-| **lychee** | 0.14.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
+| **lychee** | 0.14.3 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.8.9rel.1-7 | The text web browser | http://lynx.browser.org/ |
 | **lz4** | 1.9.4 | Fast LZ compression algorithm tool | https://lz4.github.io/lz4/ |
 | **lzip** | 1.23-1 | Lossless data compressor similar to gzip and bzip2 | https://www.nongnu.org/lzip/ |
@@ -2019,9 +2019,9 @@
 | **readline-static** | 8.2.1 | Static libraries for readline | https://tiswww.case.edu/php/chet/readline/rltop.html |
 | **recode** | 3.7.14 | Charset converter tool and library | https://github.com/pinard/Recode |
 | **recode-static** | 3.7.14 | Static libraries for recode | https://github.com/pinard/Recode |
-| **recoll** | 1.37.2 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-python** | 1.37.2 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
-| **recoll-static** | 1.37.2 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll** | 1.37.4 | Full-text search for your desktop | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-python** | 1.37.4 | Python interface for Recoll | https://www.lesbonscomptes.com/recoll/index.html |
+| **recoll-static** | 1.37.4 | Static libraries for recoll | https://www.lesbonscomptes.com/recoll/index.html |
 | **recutils** | 1.9 | Set of tools and libraries to access human-editable, plain text databases called recfiles | https://www.gnu.org/software/recutils/ |
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-1 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
@@ -2208,8 +2208,8 @@
 | **stow** | 2.3.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.7 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-2 | Records and splits streaming mp3 into tracks | http://streamripper.sourceforge.net/ |
-| **stunnel** | 5.71 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
-| **stunnel-static** | 5.71 | Static libraries for stunnel | https://www.stunnel.org/ |
+| **stunnel** | 5.72 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
+| **stunnel-static** | 5.72 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-3 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 0.20.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4 | DVD subtitle ripper for Linux | http://subtitleripper.sourceforge.net/ |
