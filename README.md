@@ -376,10 +376,10 @@
 | **eltclsh** | 1.19 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.19.2-2 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 29.2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
-| **emscripten** | 3.1.52 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 3.1.52 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 3.1.52 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 3.1.52 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 3.1.53 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 3.1.53 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 3.1.53 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 3.1.53 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-2 | A tool for compositing images using a Burt&Adelson multiresolution spline | http://enblend.sourceforge.net/ |
 | **enchant** | 2.6.6 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
 | **enchant-static** | 2.6.6 | Static libraries for enchant | https://abiword.github.io/enchant/ |
@@ -689,8 +689,8 @@
 | **imagemagick-static** | 7.1.1.27 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.9 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imgflo** | 0.4.2-7 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
-| **imlib2** | 1.12.1-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
-| **imlib2-static** | 1.12.1-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2** | 1.12.2 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2-static** | 1.12.2 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **indent** | 2.2.13 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **inetutils** | 2.4-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-3 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
@@ -1099,9 +1099,9 @@
 | **libmhash-static** | 0.9.9.9-2 | Static libraries for libmhash | http://mhash.sourceforge.net/ |
 | **libmicrohttpd** | 0.9.77 | A small C library that is supposed to make it easy to run an HTTP server as part of another application | http://www.gnu.org/software/libmicrohttpd/ |
 | **libmicrohttpd-static** | 0.9.77 | Static libraries for libmicrohttpd | http://www.gnu.org/software/libmicrohttpd/ |
-| **libminizip** | 1.3 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip** | 1.3.1 | Mini zip and unzip based on zlib | https://www.winimage.com/zLibDll/minizip.html |
 | **libminizip-ng** | 4.0.4 | A zip manipulation library written in C | https://github.com/zlib-ng/minizip-ng |
-| **libminizip-static** | 1.3 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
+| **libminizip-static** | 1.3.1 | Static libraries for libminizip | https://www.winimage.com/zLibDll/minizip.html |
 | **libmnl** | 1.0.5 | a minimalistic user-space library oriented to Netlink developers | https://www.netfilter.org/projects/libmnl/ |
 | **libmnl-static** | 1.0.5 | Static libraries for libmnl | https://www.netfilter.org/projects/libmnl/ |
 | **libmodplug** | 0.8.9.1.r461 | The ModPlug mod file playing library | http://modplug-xmms.sourceforge.net/ |
@@ -1781,11 +1781,11 @@
 | **openscad** | 2021.01 | The programmers solid 3D CAD modeller (headless build) | http://openscad.org/ |
 | **openssh** | 9.6p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
 | **openssh-sftp-server** | 9.6p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
-| **openssl** | 1:3.2.0 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
+| **openssl** | 1:3.2.1 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1** | 1:1.1.1w | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-1.1-static** | 1:1.1.1w | Static libraries for openssl-1.1 | https://www.openssl.org/ |
-| **openssl-static** | 1:3.2.0 | Static libraries for openssl | https://www.openssl.org/ |
-| **openssl-tool** | 1:3.2.0 | The openssl command line cryptographic tool | https://www.openssl.org/ |
+| **openssl-static** | 1:3.2.1 | Static libraries for openssl | https://www.openssl.org/ |
+| **openssl-tool** | 1:3.2.1 | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **openssl1.1-tool** | 1:1.1.1w | The openssl command line cryptographic tool | https://www.openssl.org/ |
 | **optipng** | 0.7.8 | PNG optimizer that recompresses image files to a smaller size, without losing any information | https://optipng.sourceforge.net/ |
 | **opus-tools** | 0.2-3 | Utilities to encode and decode .opus files | https://www.opus-codec.org/ |
