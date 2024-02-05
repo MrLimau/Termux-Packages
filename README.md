@@ -1753,7 +1753,7 @@
 | **oniguruma-static** | 6.9.9 | Static libraries for oniguruma | https://github.com/kkos/oniguruma |
 | **oorexx** | 4.2.0-3 | Open Object Rexx | https://www.oorexx.org/ |
 | **oorexx-static** | 4.2.0-3 | Static libraries for oorexx | https://www.oorexx.org/ |
-| **open-adventure** | 1.17 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
+| **open-adventure** | 1.18 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.23.1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-8 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.7 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
