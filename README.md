@@ -2238,7 +2238,7 @@
 | **swig** | 4.1.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.8.1 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.8.1 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
-| **syncthing** | 1.27.2 | Decentralized file synchronization | https://syncthing.net/ |
+| **syncthing** | 1.27.3 | Decentralized file synchronization | https://syncthing.net/ |
 | **sysprop** | 13.0.0.15-5 | Generates cpp / java sysprop | https://android.googlesource.com/platform/system/tools/sysprop |
 | **ta-lib** | 0.4.0-1 | Technical analysis library with indicators like ADX. | https://sourceforge.net/projects/ta-lib/ |
 | **ta-lib-static** | 0.4.0-1 | Static libraries for ta-lib | https://sourceforge.net/projects/ta-lib/ |
