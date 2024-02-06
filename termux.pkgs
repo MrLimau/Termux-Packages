@@ -94,7 +94,7 @@
 | **avra** | 1.4.2 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 0.999 | Runs list of commands in parallel and waits for their termination | https://await-cli.app/ |
 | **awesomeshot** | 1.1.0 | A command-line screenshot tool written in bash | https://github.com/mayTermux/awesomeshot |
-| **axel** | 2.17.11-2 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
+| **axel** | 2.17.13 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.5.0 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.106 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacula-fd** | 13.0.3 | Bacula backup software | https://www.bacula.org |
@@ -2278,7 +2278,7 @@
 | **termux-keyring** | 3.11 | GPG public keys for the official Termux repositories | https://github.com/termux |
 | **termux-licenses** | 2.0-3 | Contains LICENSE files for common licenses | https://termux.dev |
 | **termux-services** | 0.13-1 | Service daemon for Termux | https://github.com/termux/termux-services/ |
-| **termux-tools** | 1.40.5-1 | Basic system tools for Termux | https://termux.dev/ |
+| **termux-tools** | 1.40.6 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-1 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.3.4 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
 | **testssl.sh** | 3.0.8 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
