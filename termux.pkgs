@@ -1951,7 +1951,7 @@
 | **python-tldp** | 0.7.5-4 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
 | **python-torch** | 2.1.2-1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
 | **python-torch-static** | 2.1.2-1 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.0.1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchaudio** | 2.0.1-1 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchvision** | 0.15.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-xcbgen** | 1.16.0 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33 | The Python X Library | https://github.com/python-xlib/python-xlib |
