@@ -508,7 +508,7 @@
 | **giflib-static** | 5.2.1-2 | Static libraries for giflib | https://sourceforge.net/projects/giflib/ |
 | **giflib-utils** | 5.2.1-2 | A set of utilities that comes with giflib package | https://sourceforge.net/projects/giflib/ |
 | **gifsicle** | 1.94 | Tool for creating, editing, and getting information about GIF images and animations | https://www.lcdf.org/gifsicle/ |
-| **gifski** | 1.14.1 | GIF encoder based on libimagequant | https://gif.ski/ |
+| **gifski** | 1.14.2 | GIF encoder based on libimagequant | https://gif.ski/ |
 | **git** | 2.43.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-crypt** | 0.7.0-2 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
 | **git-delta** | 0.16.5-2 | A syntax-highlighter for git and diff output | https://github.com/dandavison/delta |
@@ -926,8 +926,8 @@
 | **libevent** | 2.1.12-2 | Library that provides asynchronous event notification | https://libevent.org/ |
 | **libexif** | 0.6.24 | Library for reading and writing EXIF image metadata | https://libexif.github.io/ |
 | **libexif-static** | 0.6.24 | Static libraries for libexif | https://libexif.github.io/ |
-| **libexpat** | 2.5.0-1 | XML parsing C library | https://libexpat.github.io/ |
-| **libexpat-static** | 2.5.0-1 | Static libraries for libexpat | https://libexpat.github.io/ |
+| **libexpat** | 2.6.0 | XML parsing C library | https://libexpat.github.io/ |
+| **libexpat-static** | 2.6.0 | Static libraries for libexpat | https://libexpat.github.io/ |
 | **libfann** | 2.2.0 | Fast artificial neural network library | http://leenissen.dk/fann/wp |
 | **libfcft** | 3.1.6-1 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libfcl** | 0.7.0-1 | Flexible collision library | https://github.com/flexible-collision-library/fcl |
@@ -1174,7 +1174,7 @@
 | **libopus-static** | 1.4 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-3 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-3 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.36 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.37 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **libosl** | 0.9.7 | A Specification and a Library for Data Exchange in Polyhedral Compilation Tools | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosl-static** | 0.9.7 | Static libraries for libosl | http://icps.u-strasbg.fr/~bastoul/development/openscop |
 | **libosmium** | 2.20.0 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
