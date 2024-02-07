@@ -260,7 +260,7 @@
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 9.6.6 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 9.6.8 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -561,7 +561,7 @@
 | **gnustep-make** | 2.9.1 | The GNUstep makefile package | http://www.gnustep.org |
 | **gnutls** | 3.8.2 | Commandline utilities for interfacing with the gnutls library | https://www.gnutls.org/ |
 | **go-findimagedupes** | 2023.01.29-3 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
-| **goaccess** | 1.9 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
+| **goaccess** | 1.9.1 | An open source real-time web log analyzer and interactive viewer | http://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-2 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.78.1 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gogs** | 0.13.0-2 | A painless self-hosted Git service | https://gogs.io |
@@ -840,7 +840,7 @@
 | **libburn-static** | 1.5.6 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-6 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 26b | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.24.5 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.24.6 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-3 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-3 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-1 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -966,7 +966,7 @@
 | **libgf2x-static** | 1.3.0 | Static libraries for libgf2x | https://gitlab.inria.fr/gf2x/gf2x |
 | **libgfshare** | 2.0.0-7 | Utilities for multi-way secret-sharing | http://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-7 | Static libraries for libgfshare | http://www.digital-scurf.org/software/libgfshare |
-| **libgit2** | 1.7.1 | C library implementing Git core methods | https://libgit2.github.com/ |
+| **libgit2** | 1.7.2 | C library implementing Git core methods | https://libgit2.github.com/ |
 | **libglibmm-2.4** | 2.66.6 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglibmm-2.68** | 2.76.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
@@ -1069,8 +1069,8 @@
 | **liblua53-static** | 5.3.6 | Static libraries for liblua53 | https://www.lua.org/ |
 | **liblua54** | 5.4.6-1 | Shared library for the Lua interpreter | https://www.lua.org/ |
 | **liblua54-static** | 5.4.6-1 | Static libraries for liblua54 | https://www.lua.org/ |
-| **libluajit** | 1:2.1.1703358377 | Just-In-Time Compiler for Lua | https://luajit.org/ |
-| **libluajit-static** | 1:2.1.1703358377 | Static libraries for libluajit | https://luajit.org/ |
+| **libluajit** | 1:2.1.1707061634 | Just-In-Time Compiler for Lua | https://luajit.org/ |
+| **libluajit-static** | 1:2.1.1707061634 | Static libraries for libluajit | https://luajit.org/ |
 | **liblz4** | 1.9.4 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
 | **liblzma** | 5.4.6 | XZ-format compression library | https://tukaani.org/xz/ |
 | **liblzma-static** | 5.4.6 | Static libraries for liblzma | https://tukaani.org/xz/ |
@@ -1522,7 +1522,7 @@
 | **lua52** | 5.2.4-8 | Simple, extensible, embeddable programming language | https://www.lua.org |
 | **lua53** | 5.3.6 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
 | **lua54** | 5.4.6-1 | Simple, extensible, embeddable programming language | https://www.lua.org/ |
-| **luajit** | 1:2.1.1703358377 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
+| **luajit** | 1:2.1.1707061634 | Just-In-Time compiler for Lua - command line tool | https://luajit.org/ |
 | **luarocks** | 3.9.2 | Deployment and management system for Lua modules | https://luarocks.org/ |
 | **luv** | 1.47.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **lux** | 0.22.0 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
