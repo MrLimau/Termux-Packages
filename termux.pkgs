@@ -2095,7 +2095,7 @@
 | **sc-im** | 0.8.3-1 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.3.1 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 3.2.0-3 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
-| **sccache** | 0.7.6 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
+| **sccache** | 0.7.7 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.4.4 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.2-2 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 4.9.1 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
@@ -2178,7 +2178,7 @@
 | **squashfs-tools-ng** | 1.2.0 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.2.0 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
 | **squeezelite** | 1.9.9.1430 | A small headless Logitech Squeezebox emulator | https://ralph-irving.github.io/squeezelite.html |
-| **squid** | 6.6 | Full-featured Web proxy cache server | http://www.squid-cache.org |
+| **squid** | 6.7 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.16 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-7 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay |
 | **srt-tools** | 1.5.3 | Command-line tools for libsrt | https://github.com/Haivision/srt |
