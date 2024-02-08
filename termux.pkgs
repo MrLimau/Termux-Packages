@@ -1372,8 +1372,8 @@
 | **libusbredir-static** | 0.7.1 | Static libraries for libusbredir | https://www.spice-space.org/ |
 | **libutf8-range** | 2:25.1 | Fast UTF-8 validation with Range algorithm | https://github.com/protocolbuffers/protobuf |
 | **libuuid** | 2.39.3-3 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **libuv** | 1.47.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
-| **libuv-static** | 1.47.0 | Static libraries for libuv | https://libuv.org |
+| **libuv** | 1.48.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
+| **libuv-static** | 1.48.0 | Static libraries for libuv | https://libuv.org |
 | **libv4l** | 1.24.1-1 | Linux libraries to handle media devices | https://git.linuxtv.org/v4l-utils.git |
 | **libv4l-static** | 1.24.1-1 | Static libraries for libv4l | https://git.linuxtv.org/v4l-utils.git |
 | **libvbisam** | 2.0-1 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
