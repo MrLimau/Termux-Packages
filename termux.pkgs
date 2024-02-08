@@ -1910,7 +1910,7 @@
 | **protobuf-dev** | 2:25.1 | CMake files for protobuf shared libraries | https://github.com/protocolbuffers/protobuf |
 | **protobuf-static** | 25.1 | Protocol buffers C++ library (static) | https://github.com/protocolbuffers/protobuf |
 | **prover9** | 2009-11A-0 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
-| **proxychains-ng** | 4.16 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
+| **proxychains-ng** | 4.17 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.6-2 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.4.2 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
 | **ptex-static** | 2.4.2 | Static libraries for ptex | https://github.com/wdas/ptex |
