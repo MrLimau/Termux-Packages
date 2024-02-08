@@ -381,8 +381,8 @@
 | **emscripten-llvm** | 3.1.53 | Emscripten-compatible LLVM | https://emscripten.org |
 | **emscripten-tests-third-party** | 3.1.53 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-2 | A tool for compositing images using a Burt&Adelson multiresolution spline | http://enblend.sourceforge.net/ |
-| **enchant** | 2.6.6 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
-| **enchant-static** | 2.6.6 | Static libraries for enchant | https://abiword.github.io/enchant/ |
+| **enchant** | 2.6.7 | Wraps a number of different spelling libraries and programs with a consistent interface | https://abiword.github.io/enchant/ |
+| **enchant-static** | 2.6.7 | Static libraries for enchant | https://abiword.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.5 | Event Notify Test Runner - run arbitrary commands when files change | http://eradman.com/entrproject/ |
 | **erlang** | 26.2.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
@@ -2387,7 +2387,7 @@
 | **util-linux-static** | 2.39.3-3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.39.3-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uwsgi** | 2.0.23 | uWSGI application server container | https://projects.unbit.it/uwsgi |
+| **uwsgi** | 2.0.24 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.13.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.14 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
 | **valac-static** | 0.56.14 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
