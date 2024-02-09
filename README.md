@@ -260,7 +260,7 @@
 | **cpufetch** | 1.05 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-1 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.30.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 9.6.8 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 9.6.9 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.1 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.16.1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/lise-henry |
 | **crunch** | 3.6-4 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist |
@@ -397,7 +397,7 @@
 | **exiv2** | 2:0.27.7-1 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **exiv2-static** | 2:0.27.7-1 | Static libraries for exiv2 | https://exiv2.org/ |
 | **expect** | 5.45.4-3 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
-| **eza** | 0.18.1 | A modern replacement for ls | https://github.com/eza-community/eza |
+| **eza** | 0.18.2 | A modern replacement for ls | https://github.com/eza-community/eza |
 | **fact++** | 1.6.5-1 | Re-implementation of the well-known FaCT Description Logic (DL) Reasoner | https://bitbucket.org/dtsarkov/factplusplus |
 | **fakeroot** | 1.33 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 1.33 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
@@ -1346,8 +1346,8 @@
 | **libtpms-static** | 0.9.6 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.3-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
 | **libtree-ldd** | 3.1.1-1 | Like ldd(1), but prints a tree(1) like output | https://github.com/haampie/libtree |
-| **libtreesitter** | 0.20.9 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
-| **libtreesitter-static** | 0.20.9 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter** | 0.21.0-pre-release-1-0 | An incremental parsing system for programming tools | https://github.com/tree-sitter/tree-sitter |
+| **libtreesitter-static** | 0.21.0-pre-release-1-0 | Static libraries for libtreesitter | https://github.com/tree-sitter/tree-sitter |
 | **libtsduck** | 3.36.3528 | An extensible toolkit for MPEG transport streams | https://tsduck.io/ |
 | **libtsduck-static** | 3.36.3528 | Static libraries for libtsduck | https://tsduck.io/ |
 | **libtvision** | 2023.01.29 | A modern port of Turbo Vision 2.0 with Unicode support | https://github.com/magiblot/tvision |
@@ -1658,7 +1658,7 @@
 | **music-file-organizer** | 1.0.4-1 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.2.12-1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 14.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 14.0.1 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.1.2-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1873,7 +1873,7 @@
 | **pkg-config** | 0.29.2-2 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 21 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2024.0 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2024.1 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-1 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.8.1 | A superset of Lua 5.4, with unique features, optimizations, and improvements | https://plutolang.github.io/ |
 | **plzip** | 1.10 | A massively parallel lossless data compressor based on the lzlib compression library | http://www.nongnu.org/lzip/plzip.html |
@@ -2507,7 +2507,7 @@
 | **yazi** | 0.2.3 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yosys** | 0.37 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.0 | Download youtube video in Golang | https://github.com/kkdai/youtube |
-| **yq** | 4.40.5 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
+| **yq** | 4.40.7 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-0 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
 | **yuma123** | 2.13-1 | Provides an opensource YANG API in C | https://yuma123.org/ |
